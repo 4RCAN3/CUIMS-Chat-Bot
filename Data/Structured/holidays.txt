@@ -1,0 +1,49 @@
+holidays
+1:
+Event: Republic Day
+Date: 26-Jan
+Day: Friday
+2:
+Event: Guru Ravidas Jayanti
+Date: 24-Feb
+Day: Saturday
+3:
+Event: Maha Shivratri
+Date: 8-Mar
+Day: Friday
+4:
+Event: Holi
+Date: 25-Mar
+Day: Monday
+5:
+Event: Dr. B.R. Ambedkar Jayanti
+Date: 14-Apr
+Day: Sunday
+6:
+Event: Bakrid (Id-ul-Zuha)
+Date: 17-Jun
+Day: Monday
+7:
+Event: Independence Day
+Date: 15-Aug
+Day: Thursday
+8:
+Event: Gandhi Jayanti
+Date: 2-Oct
+Day: Wednesday
+9:
+Event: Dussehra
+Date: 12-Oct
+Day: Saturday
+10:
+Event: Diwali
+Date: 31-Oct
+Day: Thursday
+11:
+Event: Gurupurab, Birthday of Sri Guru Nanak Dev Ji
+Date: 15-Nov
+Day: Friday
+12:
+Event: Christmas Day
+Date: 25-Dec
+Day: Wednesday

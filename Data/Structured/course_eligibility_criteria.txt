@@ -1,0 +1,877 @@
+course_eligibility_criteria
+1:
+Course Name: Master of Business Administration (under CASSM)
+Specialization: PG
+Eligibility Criteria: Bachelor degree in any discipline with atleast 50% marks from recognized University/ Institution. Graduates of recognized professional programmes like CA/ ICWA etc. are also eligible to apply. (For CASSM)/- INR
+2:
+Course Name: B.Sc - (Computer Science, Statistics and Mathematics)
+Specialization: UG
+Eligibility Criteria: Candidate must have completed 10+2 examination or any other examination recognized as equivalent thereto with mathematics as one of the subject and having at least 50% marks in aggregate/- INR
+3:
+Course Name: B.Sc - (Forensic Science)
+Specialization: UG
+Eligibility Criteria: 10+2 with 50% marks in aggregate from a recognized Board in Science stream./- INR
+4:
+Course Name: B.Sc - (Hons.) (Medical Lab Technology)
+Specialization: UG
+Eligibility Criteria: 10+2 examination with atleast 50% marks in aggregate with Physics and Chemistry as compulsory subject, alongwith one of the following subject:-Biology/Mathematics conducted by a recognised Board or its equivalent examination./- INR
+5:
+Course Name: B.Sc - (Hons.) (Medical Lab Technology) - Lateral Entry
+Specialization: UG
+Eligibility Criteria: Three year Diploma in MLT after 10th and Two year diploma after 10+2 in science stream/- INR
+6:
+Course Name: B.Sc - (Hons.) Mathematics
+Specialization: UG
+Eligibility Criteria: Candidate must have completed 10+2 examination, or any other examination recognized as equivalent thereto with Mathematics as one of the subjects and having at least 50% marks in aggregate./- INR
+7:
+Course Name: B.Sc - (Microbiology )
+Specialization: UG
+Eligibility Criteria: 10+2 examination with atleast 50% marks in aggregate with Physics/Chemistry and Mathematics/ Biology/ Zoology/ Botany/ Agriculture conducted by a recognized Board / University/council or its equivalent/- INR
+8:
+Course Name: B.Sc - (Nutrition & Dietetics)
+Specialization: UG
+Eligibility Criteria: 10+2 or its equivalent examination with Physics, Chemistry and Mathematics/ Biology/ Agriculture/ Home Science with atleast 50% marks in aggregate./- INR
+9:
+Course Name: B.Sc - Chemistry (Hons.)
+Specialization: UG
+Eligibility Criteria: 10+2 examination in Science Stream with Physics, Chemistry and Mathematics/ Biology/ Computer Science / Informatics Practices/ Information Technology as compulsory subjects with atleast 50% marks from a recognized board of the country./- INR
+10:
+Course Name: B.Sc - Medical
+Specialization: UG
+Eligibility Criteria: 10+2 examination with Physics, Biology / Zoology & Botany and Chemistry as compulsory subjects, conducted by a recognized board or its equivalent examination with atleast 50% marks in aggregate/- INR
+11:
+Course Name: B.Sc - Physics (Hons.)
+Specialization: UG
+Eligibility Criteria: 10+2 examination in Science Stream with Physics, Chemistry and Mathematics as compulsory subjects with at least 50% marks from a recognized board of the country. /- INR
+12:
+Course Name: Bachelor of Architecture
+Specialization: UG
+Eligibility Criteria: “No candidate shall be admitted to architecture course unless she/he has passed 10+2 or equivalent examination with Physics and Mathematics as compulsory subjects along with either Chemistry or Biology or Technical Vocational subject or Computer Science or Information Technology or Informatics Practices or Engineering Graphics or Business Studies with at least 45% marks in aggregate or passed 10+3 Diploma Examination with Mathematics as compulsory subject with at least 45% marks in aggregate. The candidate needs to qualify an aptitude test in architecture conducted either by NTA (i.e. JEE) or NATA conducted by the Council of Architecture.”/- INR
+13:
+Course Name: Bachelor of Arts (Journalism and Mass Communication) (ITP)
+Specialization: UG
+Eligibility Criteria: 10+2 with atleast 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council in the aggregate OR 45% marks in 10+2 in any stream with atleast 55% in English as the subject./- INR
+14:
+Course Name: Bachelor of Arts (Psychology) (Hons.) (ITP)
+Specialization: UG
+Eligibility Criteria: 10+2 in any stream with 55%marks from a recognized Board/University./- INR
+15:
+Course Name: Bachelor of Arts - Economics
+Specialization: UG
+Eligibility Criteria: 10+2 examination with at least 50% marks, conducted by a recognized board or its equivalent examination. In addition, applicant must have studied Mathematics/ Computers/ Statistics/ Accountancy/ Banking/ Business Studies/ Economics as one of the subjects at 10+2 level./- INR
+16:
+Course Name: Bachelor of Arts - Journalism and Mass Communication
+Specialization: UG
+Eligibility Criteria: 10+2 with atleast 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council in the aggregate OR 45% marks in 10+2 in any stream with atleast 55% in English as the subject./- INR
+17:
+Course Name: Bachelor of Arts - Psychology (Hons.)
+Specialization: UG
+Eligibility Criteria: 10+2 in any stream with 55%marks from a recognized Board/University./- INR
+18:
+Course Name: Bachelor of Business Administration (Hons./Hons. with Research) (FinTech)
+Specialization: UG
+Eligibility Criteria: 10+2 or its equivalent examination in any stream conducted by a recognized Board with at least 50% marks in the aggregate./- INR
+19:
+Course Name: Bachelor of Business Administration (Hons./Hons. with Research) (Logistics and Supply Chain Management)
+Specialization: UG
+Eligibility Criteria: 10+2 or its equivalent examination in any stream conducted by a recognized Board with at least 50% marks in the aggregate./- INR
+20:
+Course Name: Bachelor of Business Administration + Master of Business Administration (Integrated)
+Specialization: UG
+Eligibility Criteria: 10+2 with 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council. (For CASSM)/- INR
+21:
+Course Name: Bachelor of Commerce (B.Com) - Hons ITP (Study in Australia)
+Specialization: UG
+Eligibility Criteria: 10+2 with 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council./- INR
+22:
+Course Name: Bachelor of Commerce (Hons) General/ Auditing & Taxation/ Advanced Cost & Management Accounting/E-Commerce)
+Specialization: UG
+Eligibility Criteria: 10+2 with 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council./- INR
+23:
+Course Name: Bachelor of Commerce (In association with Association of Chartered Certified Accountants)
+Specialization: PG
+Eligibility Criteria: 10+2 or its equivalent examination in any stream conducted by a recognized Board with at least 60% marks in the aggregate./- INR
+24:
+Course Name: Bachelor of Commerce + Bachelor of Law (B.Com. + LLB(Hons)) - Integrated
+Specialization: UG
+Eligibility Criteria: 10+2 with atleast 55% marks in any stream conducted by a recognized Board / University / Council in the aggregate./- INR
+25:
+Course Name: Bachelor of Computer Applications
+Specialization: UG
+Eligibility Criteria: 10+2 or its equivalent examination in any stream with atleast 50% marks conducted by a recognized Board / University/- INR
+26:
+Course Name: Bachelor of Computer Applications (Hons./Hons. with Research) (Data Science)
+Specialization: UG
+Eligibility Criteria: 10+2 or its equivalent examination in any stream with atleast 55% marks conducted by a recognized Board / University /- INR
+27:
+Course Name: Bachelor of Computer Applications (User Interface/ User Experience Design)
+Specialization: UG
+Eligibility Criteria: 10+2 or its equivalent examination in any stream with atleast 55% marks conducted by a recognized Board / University /- INR
+28:
+Course Name: Bachelor of Computer Applications - Augmented Reality and Virtual Reality
+Specialization: UG
+Eligibility Criteria: 10+2 or its equivalent examination in any stream with atleast 55% marks conducted by a recognized Board / University/- INR
+29:
+Course Name: Bachelor of Computer Applications - ITP (Study in USA)
+Specialization: UG
+Eligibility Criteria: 10+2 or its equivalent examination in any stream with atleast 50% marks conducted by a recognized Board / University/- INR
+30:
+Course Name: Bachelor of Design (Fashion)
+Specialization: UG
+Eligibility Criteria: 10+2 with atleast 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council or three year diploma in any branch of Engineering/Technology/Architecture with 50% marks/- INR
+31:
+Course Name: Bachelor of Design (Industrial)
+Specialization: UG
+Eligibility Criteria: 10+2 with atleast 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council or three year diploma in any branch of Engineering/Technology/Architecture with 50% marks/- INR
+32:
+Course Name: Bachelor of Design (Interior)
+Specialization: UG
+Eligibility Criteria: 10+2 with atleast 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council or three year diploma in any branch of Engineering/Technology/Architecture with 50% marks/- INR
+33:
+Course Name: Bachelor of Engineering (Aerospace Engineering)
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 50% marks in the aggregate./- INR
+34:
+Course Name: Bachelor of Engineering (Biotechnology)
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics as compulsory subjects along with any two of the following subjects:- Chemistry/ Biotechnology/ Computer Science / Biology / Mathematics with at least 50% marks in the aggregate./- INR
+35:
+Course Name: Bachelor of Engineering (Biotechnology)- Lateral Entry
+Specialization: UG
+Eligibility Criteria: Three year Diploma with at least 50% marks in any branch of Engineering / Technology. OR Passed B.Sc. Degree from a recognized University as defined by UGC, with at least 50% marks and passed 10+2 examination with Physics as a subject. Provided all Basic Science and Program Core Courses in first year curriculum are covered in the Diploma / BSc degree. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee/- INR
+36:
+Course Name: Bachelor of Engineering (Computer Science & Engineering) - Lateral Entry
+Specialization: UG
+Eligibility Criteria: Three year Diploma with at least 60% marks in CSE/ IT /ECE branch of Engineering / Technology. OR Passed B.Sc Degree from a recognized University as defined by UGC,with at least 60% marks and passed 10+2 examination with Mathematics as a subject. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee./- INR
+37:
+Course Name: Bachelor of Engineering (Computer Science and Engineering) (Computer Science and Business Systems) (In association with TCS)
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 60% marks in the aggregate./- INR
+38:
+Course Name: Bachelor of Engineering (Computer Science and Engineering) (Hons.) (Big Data and Analytics) (Lateral Entry) (In association with IBM)
+Specialization: UG
+Eligibility Criteria: Three year Diploma with at least 50% marks in CSE/ IT /ECE branch of Engineering / Technology. OR Passed B.Sc Degree from a recognized University as defined by UGC,with at least 50% marks and passed 10+2 examination with Mathematics as a subject. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee./- INR
+39:
+Course Name: Bachelor of Engineering (Computer Science and Engineering) (Hons.) (with Specialization in Artificial Intelligence and Machine Learning) (In association with IBM)
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 70% marks in the aggregate./- INR
+40:
+Course Name: Bachelor of Engineering (Computer Science and Engineering) (Hons.) (with specialization in Artificial Intelligence and Machine Learning) (In association with IBM) (Lateral Entry)
+Specialization: UG
+Eligibility Criteria: Three year Diploma with at least 60% marks in CSE/ IT/ ECE branch of Engineering / Technology. OR Passed B.Sc. CS Degree from a recognized University as defined by UGC,with at least 70% marks and passed 10+2 examination with Mathematics as a subject. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee./- INR
+41:
+Course Name: Bachelor of Engineering (Computer Science and Engineering) (Hons.) (with Specialization in Internet of Things) (In association with IBM)
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 60% marks in the aggregate./- INR
+42:
+Course Name: Bachelor of Engineering (Computer Science and Engineering) (Hons.) (with Specialization in Internet of Things) (In association with IBM) (Lateral Entry)
+Specialization: UG
+Eligibility Criteria: Three year Diploma with at least 50% marks in CSE/ IT /ECE branch of Engineering / Technology. OR Passed B.Sc Degree from a recognized University as defined by UGC,with at least 50% marks and passed 10+2 examination with Mathematics as a subject. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee./- INR
+43:
+Course Name: Bachelor of Engineering (Computer Science and Engineering) (with Specialization in Full Stack Development)
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 60% marks in the aggregate./- INR
+44:
+Course Name: Bachelor of Engineering (Hons.) (Computer Science and Engineering) (Cyber Security) (In association with IBM)
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 60% marks in the aggregate./- INR
+45:
+Course Name: Bachelor of Engineering (Hons.) (Computer Science and Engineering) (Cyber Security) (In association with IBM) (ITP)
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 60% marks in the aggregate./- INR
+46:
+Course Name: Bachelor of Engineering (Hons.) (Computer Science and Engineering) (Data Science) (In association with IBM)
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 60% marks in the aggregate./- INR
+47:
+Course Name: Bachelor of Engineering (Hons.) (Computer Science and Engineering) (Data Science) (In association with IBM) (ITP)
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 60% marks in the aggregate./- INR
+48:
+Course Name: Bachelor of Engineering (Information Technology) (ITP)
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 50% marks in the aggregate./- INR
+49:
+Course Name: Bachelor of Engineering - (Aerospace Engg.) - Lateral Entry
+Specialization: UG
+Eligibility Criteria: Three year Diploma with at least 50% marks in any branch(s) of Engineering / Technology OR Passed B.Sc. Degree from a recognized University as defined by UGC, with at least 50% marks and passed 10+2 examination with Mathematics as a subject. Provided all Basic Science, Maths and Program Core Courses in first year curriculum are covered in the Diploma / BSc degree. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee./- INR
+50:
+Course Name: Bachelor of Engineering - (Automobile Engineering)- Lateral Entry
+Specialization: UG
+Eligibility Criteria: Three year Diploma with at least 50% marks in any branch of Engineering / Technology OR Passed B.Sc. Degree from a recognized University as defined by UGC, with at least 50% marks and passed 10+2 examination with Mathematics as a subject. Provided all Basic Science, Maths and Program Core Courses in first year curriculum are covered in the Diploma / BSc degree. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee./- INR
+51:
+Course Name: Bachelor of Engineering - (Civil Engineering)-Lateral Entry
+Specialization: UG
+Eligibility Criteria: Three year Diploma with at least 50% marks in any branch of Engineering / Technology OR Passed B.Sc. Degree from a recognized University as defined by UGC, with at least 50% marks and passed 10+2 examination with Mathematics as a subject. Provided all Basic Science, Maths and Program Core Courses in first year curriculum are covered in the Diploma / BSc degree. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee./- INR
+52:
+Course Name: Bachelor of Engineering - Computer Science & Engineering
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 60% marks in the aggregate./- INR
+53:
+Course Name: Bachelor of Engineering in Computer Science and Engineering (Hons.) IBM - BIG DATA AND ANALYTICS
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 60% marks in the aggregate./- INR
+54:
+Course Name: Bachelor of Engineering in Computer Science and Engineering (Hons.) IBM - BIG DATA AND ANALYTICS – ITP
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology with at least 60% marks in the aggregate./- INR
+55:
+Course Name: Bachelor of Engineering in Computer Science and Engineering (Hons.) IBM - INFORMATION SECURITY
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 60% marks in the aggregate./- INR
+56:
+Course Name: Bachelor of Engineering in Computer Science and Engineering (Hons.) IBM - INFORMATION SECURITY – ITP
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology with at least 60% marks in the aggregate./- INR
+57:
+Course Name: Bachelor of Engineering in Computer Science and Engineering (Hons.) IBM- Information Security -Lateral Entry
+Specialization: UG
+Eligibility Criteria: Three year Diploma with at least 50% marks in CSE/ IT /ECE branch of Engineering / Technology. OR Passed B.Sc Degree from a recognized University as defined by UGC,with at least 50% marks and passed 10+2 examination with Mathematics as a subject. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee./- INR
+58:
+Course Name: Bachelor of Engineering in Computer Science and Engineering (Hons.) IBM-CLOUD COMPUTING
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 60% marks in the aggregate./- INR
+59:
+Course Name: Bachelor of Engineering in Computer Science and Engineering (Hons.) IBM-Cloud Computing -Lateral Entry
+Specialization: UG
+Eligibility Criteria: Three year Diploma with at least 50% marks in CSE/ IT /ECE branch of Engineering / Technology. OR Passed B.Sc Degree from a recognized University as defined by UGC,with at least 50% marks and passed 10+2 examination with Mathematics as a subject. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee./- INR
+60:
+Course Name: Bachelor of Engineering – (Mechanical Engineering) – ITP (Study in USA)
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology with at least 50% marks in the aggregate./- INR
+61:
+Course Name: Bachelor of Engineering – (Mechanical Engineering)(Lateral Entry) – ITP (Study in USA)
+Specialization: UG
+Eligibility Criteria: Three year Diploma with at least 50% marks in relevant branch of Engineering / Technology. OR Passed B.Sc. Degree from a recognised University as defined by UGC,with at least 50% marks and passed 10+2 examination with Mathematics as a subject. Provided all Basic Science, Maths and Program Core Courses in first year curriculum are covered in the Diploma / BSc degree. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee./- INR
+62:
+Course Name: Bachelor of Engineering- (Chemical Engineering)- Lateral Entry
+Specialization: UG
+Eligibility Criteria: Three year Diploma with at least 50% marks in any branch of Engineering / Technology OR Passed B.Sc. Degree from a recognized University as defined by UGC, with at least 50% marks and passed 10+2 examination with Mathematics as a subject. Provided all Basic Science, Maths and Program Core Courses in first year curriculum are covered in the Diploma / BSc degree. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee./- INR
+63:
+Course Name: Bachelor of Engineering- (Electrical Engineering)
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 50% marks in the aggregate./- INR
+64:
+Course Name: Bachelor of Engineering- (Electrical Engineering)- ITP (Study in USA)
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology with at least 50% marks in the aggregate./- INR
+65:
+Course Name: Bachelor of Engineering- (Electrical Engineering)- Lateral Entry
+Specialization: UG
+Eligibility Criteria: Three year Diploma with at least 50% marks in any branch of Engineering / Technology. OR Passed B.Sc. Degree from a recognized University as defined by UGC, with at least 50% marks and passed 10+2 examination with Mathematics as a subject. Provided all Basic Science, Maths and Program Core Courses in first year curriculum are covered in the Diploma / BSc degree. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee./- INR
+66:
+Course Name: Bachelor of Engineering- (Electrical Engineering)-(Lateral Entry)-ITP (Study in USA)
+Specialization: UG
+Eligibility Criteria: Three year Diploma with at least 50% marks in relevant branch of Engineering / Technology. OR Passed B.Sc. Degree from a recognised University as defined by UGC,with at least 50% marks and passed 10+2 examination with Mathematics as a subject. Provided all Basic Science, Maths and Program Core Courses in first year curriculum are covered in the Diploma / BSc degree. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee/- INR
+67:
+Course Name: Bachelor of Engineering- (Electronics and Communication Engineering)
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 50% marks in the aggregate./- INR
+68:
+Course Name: Bachelor of Engineering- (Electronics and Communication Engineering) (ITP)
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology with at least 50% marks in the aggregate./- INR
+69:
+Course Name: Bachelor of Engineering- (Electronics and Communication Engineering)- Lateral Entry
+Specialization: UG
+Eligibility Criteria: Three year Diploma with at least 50% marks in any branch of Engineering / Technology. OR Passed B.Sc. Degree from a recognized University as defined by UGC, with at least 50% marks and passed 10+2 examination with Mathematics as a subject. Provided all Basic Science, Maths and Program Core Courses in first year curriculum are covered in the Diploma / BSc degree. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee./- INR
+70:
+Course Name: Bachelor of Engineering- (Food Technology)
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics as compulsory subjects along with any two of the following subjects:- Chemistry/ Biotechnology/ Computer Science / Biology / Mathematics with at least 50% marks in the aggregate./- INR
+71:
+Course Name: Bachelor of Engineering- (Food Technology)- Lateral Entry
+Specialization: UG
+Eligibility Criteria: Three year Diploma with at least 50% marks in any branch of Engineering / Technology. OR Passed B.Sc. Degree from a recognized University as defined by UGC, with at least 50% marks and passed 10+2 examination with Physics as a subject. Provided all Basic Science and Program Core Courses in first year curriculum are covered in the Diploma / BSc degree. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee/- INR
+72:
+Course Name: Bachelor of Engineering- (Information Technology)
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 50% marks in the aggregate./- INR
+73:
+Course Name: Bachelor of Engineering- (Information Technology)- Lateral Entry
+Specialization: UG
+Eligibility Criteria: Three year Diploma with at least 50% marks in any branch of Engineering / Technology. OR Passed B.Sc. Degree from a recognized University as defined by UGC, with at least 50% marks and passed 10+2 examination with Mathematics as a subject. Provided all Basic Science, Maths and Program Core Courses in first year curriculum are covered in the Diploma / BSc degree. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee./- INR
+74:
+Course Name: Bachelor of Engineering- (Mechanical Engineering)
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 50% marks in the aggregate./- INR
+75:
+Course Name: Bachelor of Engineering- (Mechanical Engineering)- Lateral Entry
+Specialization: UG
+Eligibility Criteria: Three year Diploma with at least 50% marks in any branch of Engineering / Technology. OR Passed B.Sc. Degree from a recognized University as defined by UGC, with at least 50% marks and passed 10+2 examination with Mathematics as a subject. Provided all Basic Science, Maths and Program Core Courses in first year curriculum are covered in the Diploma / BSc degree. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee./- INR
+76:
+Course Name: Bachelor of Engineering- (Mechatronics)
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 50% marks in the aggregate./- INR
+77:
+Course Name: Bachelor of Engineering- (Mechatronics)- Lateral Entry
+Specialization: UG
+Eligibility Criteria: Three year Diploma with at least 50% marks in any branch of Engineering / Technology OR Passed B.Sc. Degree from a recognized University as defined by UGC, with at least 50% marks and passed 10+2 examination with Mathematics as a subject. Provided all Basic Science, Maths and Program Core Courses in first year curriculum are covered in the Diploma / BSc degree. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee./- INR
+78:
+Course Name: Bachelor of Engineering- Automobile Engineering
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 50% marks in the aggregate./- INR
+79:
+Course Name: Bachelor of Engineering- Chemical Engineering
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 50% marks in the aggregate./- INR
+80:
+Course Name: Bachelor of Engineering- Civil Engineering
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology/Informatics Practice/Information Technology with at least 50% marks in the aggregate./- INR
+81:
+Course Name: Bachelor of Engineering- Civil Engineering (Lateral Entry)– ITP (Study in USA, Australia)
+Specialization: UG
+Eligibility Criteria: Three year Diploma with at least 50% marks in relevant branch of Engineering / Technology. OR Passed B.Sc. Degree from a recognised University as defined by UGC,with at least 50% marks and passed 10+2 examination with Mathematics as a subject. Provided all Basic Science, Maths and Program Core Courses in first year curriculum are covered in the Diploma / BSc degree. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee/- INR
+82:
+Course Name: Bachelor of Engineering- Civil Engineering - ITP (Study in USA, Australia)
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology with at least 50% marks in the aggregate./- INR
+83:
+Course Name: Bachelor of Engineering- Computer Science & Engineering - ITP (Study in USA, Australia)
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology with at least 60% marks in the aggregate./- INR
+84:
+Course Name: Bachelor of Engineering- Computer Science & Engineering(Lateral Entry) - ITP (Study in USA, Australia)
+Specialization: UG
+Eligibility Criteria: Three year Diploma with at least 50% marks in any branch of Engineering / Technology. OR Passed B.Sc. Degree from a recognised University as defined by UGC, with at least 50% marks and passed 10+2 examination with Mathematics as a subject, with programing as one subject/- INR
+85:
+Course Name: Bachelor of Engineering- Computer Science Engineering (Graphics & Gaming)- Lateral Entry
+Specialization: UG
+Eligibility Criteria: Three year Diploma with at least 50% marks in CSE/ IT /ECE branch of Engineering / Technology. OR Passed B.Sc Degree from a recognized University as defined by UGC,with at least 50% marks and passed 10+2 examination with Mathematics as a subject. In case of deficient prerequisites, bridge courses need to be completed as specified by the equivalence committee./- INR
+86:
+Course Name: Bachelor of Fine Arts
+Specialization: UG
+Eligibility Criteria: 10+2 or its equivalent examination in any stream conducted by a recognized Board / University / Council./- INR
+87:
+Course Name: Bachelor of Law - 3 years
+Specialization: UG
+Eligibility Criteria: Recognized Bachelor degree in any discipline with atleast 50% marks in qualifying exams from recognized Indian / Foreign University./- INR
+88:
+Course Name: Bachelor of Optometry
+Specialization: UG
+Eligibility Criteria: 10+2 with atleast 50% marks in aggregate with Physics and Chemistry as compulsory subject, alongwith one of the following subject:-Biology/Mathematics./- INR
+89:
+Course Name: Bachelor of Optometry - Lateral Entry
+Specialization: UG
+Eligibility Criteria: Three year Diploma in Optometry / Ophthalmic Tech or Two year diploma in Optometry / Ophthalmic Tech after 10+2 level/- INR
+90:
+Course Name: Bachelor of Pharmacy (Lateral Entry)
+Specialization: UG
+Eligibility Criteria: Diploma in Pharmacy with 50% marks in aggregate from an institute affiliated to any university or any state Board of Technical Education provided that the diploma or the institute is duly approved by the PCI./- INR
+91:
+Course Name: Bachelor of Pharmacy (Lateral Entry)
+Specialization: UG
+Eligibility Criteria: Diploma in Pharmacy with 50% marks in aggregate from an institute affiliated to any university or any state Board of Technical Education provided that the diploma or the institute is duly approved by the PCI./- INR
+92:
+Course Name: Bachelor of Physical Education and Sports
+Specialization: UG
+Eligibility Criteria: For Sports sponsorship category only 10+2 or its equivalent examination with at least 50% marks in any stream conducted by a recognized Board / University / Council in the aggregate./- INR
+93:
+Course Name: Bachelor of Physiotherapy
+Specialization: UG
+Eligibility Criteria: 10+2 examination with atleast 50% marks in Medical stream i.e. Physics, Chemistry and Biology as compulsory subjects in 10+2/- INR
+94:
+Course Name: Bachelor of Physiotherapy (ITP)
+Specialization: UG
+Eligibility Criteria: 10+2 examination with atleast 50% marks in Medical stream i.e. Physics, Chemistry and Biology as compulsory subjects./- INR
+95:
+Course Name: Bachelor of Science (Animation, VFX and Gaming)
+Specialization: UG
+Eligibility Criteria: 10+2 in any stream with 55% marks from a recognized Board/University./- INR
+96:
+Course Name: Bachelor of Science (Biotechnology)
+Specialization: UG
+Eligibility Criteria: 10+2 examination with atleast 50% marks in aggregate with Physics/Chemistry and Mathematics/ Biology/ Zoology/ Botany/ Agriculture conducted by a recognized Board / University/council or its equivalent/- INR
+97:
+Course Name: Bachelor of Science (Computer Science)
+Specialization: UG
+Eligibility Criteria: 10+2 or its equivalent examination in Non Medical with atleast 50% marks conducted by a recognized Board / University/- INR
+98:
+Course Name: Bachelor of Science (Computer Science) (ITP)
+Specialization: UG
+Eligibility Criteria: 10+2 or its equivalent examination in Non Medical with atleast 50% marks conducted by a recognized Board / University/- INR
+99:
+Course Name: Bachelor of Science (Culinary Sciences) (ITP)
+Specialization: UG
+Eligibility Criteria: 10+2 with 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council./- INR
+100:
+Course Name: Bachelor of Science (Fashion & Design)
+Specialization: UG
+Eligibility Criteria: 10+2 with atleast 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council or three year diploma in any branch of Engineering/Technology/Architecture with 50% marks/- INR
+101:
+Course Name: Bachelor of Science - Airlines & Airport Management
+Specialization: UG
+Eligibility Criteria: 10+2 with 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council./- INR
+102:
+Course Name: Bachelor of Science - Culinary Sciences
+Specialization: UG
+Eligibility Criteria: 10+2 with 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council./- INR
+103:
+Course Name: Bachelor of Science - Hotel & Hospitality Management - (Resort & Event Management / Restaurant & Catering Management )
+Specialization: UG
+Eligibility Criteria: 10+2 with 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council./- INR
+104:
+Course Name: Bachelor of Science - Travel & Tourism Management
+Specialization: UG
+Eligibility Criteria: 10+2 with 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council./- INR
+105:
+Course Name: Bachelor of Science – (Biotechnology) – ITP (Study in Australia)
+Specialization: UG
+Eligibility Criteria: 10+2 examination with atleast 50% marks in aggregate with Physics & Chemistry as compulsory subjects and either Mathematics or Biology or Zoology and botany or Agriculture conducted by a recognized Board / University/- INR
+106:
+Course Name: Bachelor of Science – Airlines and Airport Management – ITP
+Specialization: UG
+Eligibility Criteria: 10+2 with 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council./- INR
+107:
+Course Name: Bachelor of Science – Chemistry (Hons.) - ITP (Study in Australia)
+Specialization: UG
+Eligibility Criteria: 10+2 examination in Science Stream with Physics, Chemistry & Mathematics/ Biology as compulsory subjects with atleast 50% marks from a recognized board of the country./- INR
+108:
+Course Name: Bachelor of Science – Hotel & Hospitality Management- (Resort & Event Management / Restaurant & Catering Management)- ITP (Study in Canada)
+Specialization: UG
+Eligibility Criteria: 10+2 with 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council./- INR
+109:
+Course Name: Bachelor of Science – Travel and Tourism Management – ITP (Study in USA, Italy)
+Specialization: UG
+Eligibility Criteria: 10+2 with 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council./- INR
+110:
+Course Name: Bachelor of Science- (Interior Design)
+Specialization: UG
+Eligibility Criteria: 10+2 with atleast 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council or three year diploma in any branch of Engineering/Technology/Architecture with 50% marks/- INR
+111:
+Course Name: BBA (Hons) - Business Analytics
+Specialization: UG
+Eligibility Criteria: 10+2 with 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board/ University / Council ./- INR
+112:
+Course Name: BBA (Hons)- Digital Marketing
+Specialization: UG
+Eligibility Criteria: 10+2 with 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council./- INR
+113:
+Course Name: BBA + LLB (Hons) - Integrated
+Specialization: UG
+Eligibility Criteria: 10+2 with atleast 55% marks in any stream conducted by a recognized Board / University / Council in the aggregate./- INR
+114:
+Course Name: BBA - (Bachelor of Business Administration)
+Specialization: UG
+Eligibility Criteria: 10+2 with 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council./- INR
+115:
+Course Name: BBA - (Chartered Certified Accountants)
+Specialization: UG
+Eligibility Criteria: 10+2 or its equivalent examination in any stream conducted by a recognized Board with at least 60% marks in the aggregate./- INR
+116:
+Course Name: BBA - ITP (Study in USA, Australia)
+Specialization: UG
+Eligibility Criteria: 10+2 with 50% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board / University / Council./- INR
+117:
+Course Name: BE + ME (Computer Science and Engineering) (Integrated)
+Specialization: UG
+Eligibility Criteria: 10+2 with Physics and Mathematics as compulsory subjects along with one of the following subjects: Chemistry / Biotechnology / Computer Science / Biology with at least 60% marks in the aggregate./- INR
+118:
+Course Name: Doctor of Philosophy (Architecture)
+Specialization: phd
+Eligibility Criteria: Candidates with Bachelor and Master's Degree in Architecture/ Allied specialization or eqivalent from a recognised academic institution (with not less than 55% of marks, or a CGPA of 5.5 and above in the 10-point scale) & having a valid score in UGC/CSIR/- INR
+119:
+Course Name: Doctor Of Philosophy (Biotechnology)
+Specialization: phd
+Eligibility Criteria: Recognized Master Degree in relevant stream OR an Allied field with atleast 55% marks in aggregate OR 5.5 CGPA on 10 pointer scale) & having a valid score in CU-Ph.D. Entrance Test GPAT/GATE/UGC/CSIR-NET/ICMR/ICAR/DBT-JRF + interview/- INR
+120:
+Course Name: Doctor Of Philosophy (Business Management)
+Specialization: phd
+Eligibility Criteria: Recognized Master Degree in relevant stream OR an Allied field with atleast 55% marks in aggregate OR 5.5 CGPA on 10 pointer scale) & having a valid score in CU-Ph.D. Entrance Test GPAT/GATE/UGC/CSIR-NET + interview/- INR
+121:
+Course Name: Doctor Of Philosophy (Chemistry)
+Specialization: phd
+Eligibility Criteria: Recognized Master Degree in relevant stream OR an Allied field with atleast 55% marks in aggregate OR 5.5 CGPA on 10 pointer scale) & having a valid score in CU-Ph.D. Entrance Test GPAT/GATE/UGC/CSIR-NET + interview/- INR
+122:
+Course Name: Doctor of Philosophy (Civil Engineering)
+Specialization: phd
+Eligibility Criteria: Recognized Master Degree in relevant stream OR an Allied field with atleast 55% marks in aggregate OR 5.5 CGPA on 10 pointer scale) & having a valid score in CU-Ph.D. Entrance Test GPAT/GATE/UGC/CSIR-NET + interview/- INR
+123:
+Course Name: Doctor Of Philosophy (Computer Science & Engineering)
+Specialization: phd
+Eligibility Criteria: Recognized Master Degree in relevant stream OR an Allied field with atleast 55% marks in aggregate OR 5.5 CGPA on 10 pointer scale) & having a valid score in CU-Ph.D. Entrance Test GPAT/GATE/UGC/CSIR-NET + interview/- INR
+124:
+Course Name: Doctor Of Philosophy (Mechanical Engineering)
+Specialization: phd
+Eligibility Criteria: Recognized Master Degree in relevant stream OR an Allied field with atleast 55% marks in aggregate OR 5.5 CGPA on 10 pointer scale) & having a valid score in CU-Ph.D. Entrance Test GPAT/GATE/UGC/CSIR-NET + interview/- INR
+125:
+Course Name: Doctor of Philosophy (Pharmaceutical Sciences)
+Specialization: phd
+Eligibility Criteria: Recognized Master Degree in relevant stream OR an Allied field with atleast 55% marks in aggregate OR 5.5 CGPA on 10 pointer scale) & having a valid score in CU-Ph.D. Entrance Test GPAT/GATE/UGC/CSIR-NET + interview/- INR
+126:
+Course Name: Doctor Of Philosophy (Physics)
+Specialization: phd
+Eligibility Criteria: Recognized Master Degree in relevant stream OR an Allied field with atleast 55% marks in aggregate OR 5.5 CGPA on 10 pointer scale) & having a valid score in CU-Ph.D. Entrance Test GPAT/GATE/UGC/CSIR-NET + interview/- INR
+127:
+Course Name: Doctor of Philosophy - Tourism & Hospitality Management
+Specialization: PG
+Eligibility Criteria: Recognized Master Degree in relevant stream OR an Allied field with atleast 55% marks in aggregate OR 5.5 CGPA on 10 pointer scale) & having a valid score in CU-Ph.D. Entrance Test GPAT/GATE/UGC/CSIR-NET + interview/- INR
+128:
+Course Name: Doctor of Philosophy- (Economics)
+Specialization: PG
+Eligibility Criteria: Recognized Master Degree in relevant stream OR an Allied field with atleast 55% marks in aggregate OR 5.5 CGPA on 10 pointer scale) & having a valid score in CU-Ph.D. Entrance Test GPAT/GATE/UGC/CSIR-NET + interview/- INR
+129:
+Course Name: Doctor of Philosophy- (Education)
+Specialization: phd
+Eligibility Criteria: Recognized Master Degree in relevant stream OR an Allied field with atleast 55% marks in aggregate OR 5.5 CGPA on 10 pointer scale) & having a valid score in CU-Ph.D. Entrance Test GPAT/GATE/UGC/CSIR-NET + interview/- INR
+130:
+Course Name: Doctor of Philosophy- (Electrical Engineering)
+Specialization: phd
+Eligibility Criteria: Recognized Master Degree in relevant stream OR an Allied field with atleast 55% marks in aggregate OR 5.5 CGPA on 10 pointer scale) & having a valid score in CU-Ph.D. Entrance Test GPAT/GATE/UGC/CSIR-NET + interview/- INR
+131:
+Course Name: Doctor of Philosophy- (Electronics and Communication Engineering)
+Specialization: phd
+Eligibility Criteria: Recognized Master Degree in relevant stream OR an Allied field with atleast 55% marks in aggregate OR 5.5 CGPA on 10 pointer scale) & having a valid score in CU-Ph.D. Entrance Test GPAT/GATE/UGC/CSIR-NET + interview/- INR
+132:
+Course Name: Doctor of Philosophy- (English)
+Specialization: phd
+Eligibility Criteria: Recognized Master Degree in relevant stream OR an Allied field with atleast 55% marks in aggregate OR 5.5 CGPA on 10 pointer scale) & having a valid score in CU-Ph.D. Entrance Test GPAT/GATE/UGC/CSIR-NET + interview/- INR
+133:
+Course Name: Doctor of Philosophy- (Mathematics)
+Specialization: phd
+Eligibility Criteria: Recognized Master Degree in relevant stream OR an Allied field with atleast 55% marks in aggregate OR 5.5 CGPA on 10 pointer scale) & having a valid score in CU-Ph.D. Entrance Test GPAT/GATE/UGC/CSIR-NET + interview/- INR
+134:
+Course Name: Doctor of Philosophy- (Psychology)
+Specialization: phd
+Eligibility Criteria: Recognized Master Degree in relevant stream OR an Allied field with atleast 55% marks in aggregate OR 5.5 CGPA on 10 pointer scale) & having a valid score in CU-Ph.D. Entrance Test GPAT/GATE/UGC/CSIR-NET + interview/- INR
+135:
+Course Name: Doctor of Philosophy- Mass Communication
+Specialization: PG
+Eligibility Criteria: Recognized Master Degree in relevant stream OR an Allied field with atleast 55% marks in aggregate OR 5.5 CGPA on 10 pointer scale) & having a valid score in CU-Ph.D. Entrance Test GPAT/GATE/UGC/CSIR-NET + interview/- INR
+136:
+Course Name: Doctor of Philosophy:- Commerce
+Specialization: PG
+Eligibility Criteria: Recognized Master Degree in relevant stream OR an Allied field with atleast 55% marks in aggregate OR 5.5 CGPA on 10 pointer scale) & having a valid score in CU-Ph.D. Entrance Test GPAT/GATE/UGC/CSIR-NET + interview/- INR
+137:
+Course Name: Doctor of Philosophy:- Computer Applications
+Specialization: phd
+Eligibility Criteria: Recognized Master Degree in relevant stream OR an Allied field with atleast 55% marks in aggregate OR 5.5 CGPA on 10 pointer scale) & having a valid score in CU-Ph.D. Entrance Test GPAT/GATE/UGC/CSIR-NET + interview/- INR
+138:
+Course Name: Doctor of Philosophy:- Forensic Science
+Specialization: phd
+Eligibility Criteria: Recognized Master Degree in relevant stream OR an Allied field with atleast 55% marks in aggregate OR 5.5 CGPA on 10 pointer scale) & having a valid score in CU-Ph.D. Entrance Test GPAT/GATE/UGC/CSIR-NET + interview/- INR
+139:
+Course Name: Doctor of Philosophy:- Law
+Specialization: PG
+Eligibility Criteria: Recognized Master Degree in relevant stream OR an Allied field with atleast 55% marks in aggregate OR 5.5 CGPA on 10 pointer scale) & having a valid score in CU-Ph.D. Entrance Test GPAT/GATE/UGC/CSIR-NET + interview/- INR
+140:
+Course Name: M.Sc - (Botany)
+Specialization: PG
+Eligibility Criteria: Candidate must have completed bachelor's degree in B.Sc. (Hons.) Botany / Medical/ Biotechnology/ Life Science/ Forestry with atleast 50% marks in aggregate with Botany as compulsory subject./- INR
+141:
+Course Name: M.Sc - (Chemistry)
+Specialization: PG
+Eligibility Criteria: Candidate must have completed bachelor's degree in (Hons.)Chemistry / Medical/ Non Medical/ Forensic/ Industrial Chemistry/ Biochemistry /Polymer Chemistry with atleast 50% marks in aggregate with Chemistry as compulsory subject./- INR
+142:
+Course Name: M.Sc - (Data Science)
+Specialization: PG
+Eligibility Criteria: Candidate must have completed bachelor's degree in B.A./BCA/B.Sc. / B.Com (Statistics) / Commerce or Mathematics or Computer Science) /B.E/B.Tech OR equivalent undergraduate degree with any one of the following subject Computer Science/ Mathematics/ Stati/- INR
+143:
+Course Name: M.Sc - (Forensic Science)
+Specialization: PG
+Eligibility Criteria: Bachelor's degree in any branch of Science/ Pharmacy/ Medicine/ Dentistry and Bachelor of Engineering with atleast 50% marks in aggregate from recognized University/ Institution./- INR
+144:
+Course Name: M.Sc - (Industrial Chemistry)
+Specialization: PG
+Eligibility Criteria: Bachelor's Degree in Science stream with at least 50% marks in aggregate with Chemistry as compulsory subject./- INR
+145:
+Course Name: M.Sc - (Industrial Microbiology)
+Specialization: PG
+Eligibility Criteria: Bachelor's degree with atleast 50% marks in any branch of Life Science / Agriculture/ Pharmacy / Veterinary / Medicine (MBBS) / Medical Lab Technology / Nursing or its equivalent/- INR
+146:
+Course Name: M.Sc - (Mathematics)
+Specialization: PG
+Eligibility Criteria: Candidates must have passed B.Sc (Maths) / B.Sc (Maths - Hons) / B.E / B.Tech / B.Sc. (Hons)/B.A. (Hons)/B.Sc./B.A.Maths securing a minimum of 50% marks aggregate. The candidate from B.Sc. (Hons)/B.A. (Hons)/B.Sc./B.A./ must have studied Mathematics Hons./- INR
+147:
+Course Name: M.Sc - (Nutrition and Dietetics)
+Specialization: PG
+Eligibility Criteria: Graduation in a relevant discipline, such as Home Science, Nutrition or Dietetics, Food Science, Biology, Microbiology, Clinical Biochemistry, Life Sciences, BNYS (Naturopathy), BAMS (Ayurveda), Bio-Chemistry, Biotechnology, Nursing, MLT, Microbial & Food Tech., B.Voc., Zoology, Botany, Community Science, Human Nutrition, Agriculture, Food Industry, Fishing & Breeding, Food Security and Nutrition MBBS. A minimum aggregate score of 50% at the level of graduation./- INR
+148:
+Course Name: M.Sc - (Physics)
+Specialization: PG
+Eligibility Criteria: Bachelor's Degree with atleast 50% marks in aggregate in Science with Physics as compulsory subject or B.E. in engineering physics/ B.E. in Electronics & Communication/ Electrical/ Mechanical or equivalent with 50% marks in aggregate./- INR
+149:
+Course Name: M.Sc - (Zoology)
+Specialization: PG
+Eligibility Criteria: Candidate must have completed bachelor's degree in Medical / Allied Medical Sciences / Bio- Sciences/ Life Sciences are eligible for the course with atleast 50% marks in aggregate with Zoology as compulsory subject./- INR
+150:
+Course Name: M.Sc - Forensic Science (ITP)
+Specialization: PG
+Eligibility Criteria: Bachelor's degree in any branch of Science/ Pharmacy/ Medicine/ Dentistry and Bachelor of Engineering with atleast 50% marks in aggregate from recognized University/ Institution./- INR
+151:
+Course Name: M.Sc - Mathematics (ITP)
+Specialization: PG
+Eligibility Criteria: Candidates must have passed B.Sc (Maths) / B.Sc (Maths - Hons.) / B.E / B.Tech / B.Sc. (Hons.)/B.A. (Hons.)/B.Sc./B.A. securing a minimum of 50% marks aggregate. The candidate from B.Sc. (Hons.)/B.A. (Hons.)/B.Sc./B.A./ must have studied Mathematics Hons. or studied Mathematics courses with 24 credits in graduate level/- INR
+152:
+Course Name: Master of Architecture
+Specialization: PG
+Eligibility Criteria: Candidate with a minimum of 50% aggregate marks in a Bachelor of Architecture degree programme or equivalent degree recognized by Council of Architecture./- INR
+153:
+Course Name: Master of Arts - (Economics)
+Specialization: PG
+Eligibility Criteria: Bachelor's Degree with atleast 50% marks and Economics as one of the compulsory subject at Graduation level./- INR
+154:
+Course Name: Master of Arts - (Journalism & Mass Communication)
+Specialization: PG
+Eligibility Criteria: Bachelor's Degree with atleast 50% marks in aggregate or its equivalent from a recognized Board / University/- INR
+155:
+Course Name: Master of Arts - Clinical Psychology
+Specialization: PG
+Eligibility Criteria: Bachelor's Degree in Psychology from a recognised University with at least 50% in aggregate, and also with 50 % marks in psychology subject or preferably Bacehlor's of Arts (Hons.) in Psychology with 50 % marks in aggregate/- INR
+156:
+Course Name: Master of Arts - English
+Specialization: PG
+Eligibility Criteria: Bachelor's Degree with English as a subject with atleast 50% marks in Aggregate OR Bachelor's of Arts (Hons.) in English with 45% marks aggregate./- INR
+157:
+Course Name: Master of Arts - Psychology
+Specialization: PG
+Eligibility Criteria: Recognized Bachelor's degree with at least 50 % marks in aggregate OR Bachelor's of Arts (Hons.) in Psychology with 50% marks aggregate/- INR
+158:
+Course Name: Master of Business Administration (Applied Finance)
+Specialization: PG
+Eligibility Criteria: Bachelor degree or its' equivalent in any discipline with atleast 55% marks from recognized University/ Institution. Applicants with Commerce background will be preferred. Graduates of recognized professional programmes like CA/ ICWA etc. are also eligible to apply./- INR
+159:
+Course Name: Master of Business Administration (Healthcare and Hospital Management)
+Specialization: PG
+Eligibility Criteria: Bachelor degree in any discipline with atleast 50% marks from recognized University/ Institution at Graduation Level./- INR
+160:
+Course Name: Master of Business Administration (Tourism and Hospitality Management) (ITP)
+Specialization: PG
+Eligibility Criteria: Passed Bachelor’s degree with at least 45% marks in aggregate or its equivalent examination in any stream conducted by a recognized Board/Council/University/- INR
+161:
+Course Name: Master of Business Administration (Tourism, Hospitality and Aviation)
+Specialization: PG
+Eligibility Criteria: Bachelor degree in any discipline with atleast 45% marks in aggregate from recognized University/ Institution./- INR
+162:
+Course Name: Master of Business Administration (Tourism, Hospitality and Aviation) (ITP)
+Specialization: PG
+Eligibility Criteria: Bachelor degree in any discipline with atleast 45% marks in aggregate from recognized University/ Institution./- INR
+163:
+Course Name: Master of Commerce (In association with Association of Chartered Certified Accountants)
+Specialization: PG
+Eligibility Criteria: BCOM / BBA / or Bachelors degree in Economics / Mathematics / Statistics with atleast 50% marks from recognized University/ Institution./- INR
+164:
+Course Name: Master of Computer Applications
+Specialization: PG
+Eligibility Criteria: "A candidate shall have passed the qualifying examination of B.C.A./ B.Sc. (Computer Science)/ B.Sc. (IT) / B.E. (CSE)/ B.Tech.(CSE) / B.E. (IT) / B.Tech. (IT) or passed any graduation degree (e.g.: B.E. / B.Tech. / B.Sc. / B.Com. / B.A./ B.Voc./ etc.,) with Mathematics, Business Mathematics, Programming or statistics at 10+2 level or at Graduation level with 50% aggregate For students having no Mathematics background compulsory 3 credit bridge course will be offered by the university. For students having no background knowledge in Computer Subjects, a 3 credit bridge course on Introduction to problem solving will be offered as per University norms."/- INR
+165:
+Course Name: Master of Computer Applications - Artificial Intelligence & Machine Learning
+Specialization: PG
+Eligibility Criteria: A candidate shall have passed the qualifying examination of B.C.A./ B.Sc. (Computer Science)/ B.Sc. (IT) / B.E. (CSE)/ B.Tech.(CSE) / B.E. (IT) / B.Tech. (IT) at Graduation level with 60% aggregate/- INR
+166:
+Course Name: Master of Computer Applications - Cloud Computing and DevOps
+Specialization: PG
+Eligibility Criteria: A candidate shall have passed the qualifying examination of B.C.A./ B.Sc. (Computer Science)/ B.Sc. (IT) / B.E. (CSE)/ B.Tech.(CSE) / B.E. (IT) / B.Tech. (IT) at Graduation level with 60% aggregate/- INR
+167:
+Course Name: Master of Computer Applications - Cloud Computing and DevOps (ITP)
+Specialization: PG
+Eligibility Criteria: A candidate shall have passed the qualifying examination of B.C.A./ B.Sc. (Computer Science)/ B.Sc. (IT) / B.E. (CSE)/ B.Tech.(CSE) / B.E. (IT) / B.Tech. (IT) or passed any graduation degree (e.g.: B.E. / B.Tech. / B.Sc. / B.Com. / B.A./ B.Voc./ etc.,) with Mathematics, Business Mathematics, Programming or statistics at 10+2 level or at Graduation level with 60% aggregate/- INR
+168:
+Course Name: Master of Computer Applications - ITP (Study in USA)
+Specialization: PG
+Eligibility Criteria: A candidate shall have passed the qualifying examination of B.C.A./ B.Sc. (Computer Science)/ B.Sc. (IT) / B.E. (CSE)/ B.Tech.(CSE) / B.E. (IT) / B.Tech. (IT) or passed any graduation degree (e.g.: B.E. / B.Tech. / B.Sc. / B.Com. / B.A./ B.Voc./ etc.,) with Mathematics, Business Mathematics, Programming or statistics at 10+2 level or at Graduation level with 50% aggregate For students having no Mathematics background; compulsory 3 credit bridge course will be offered by the university. For students having no background knowledge in Computer Subjects, a 3 credit bridge course on Introduction to problem solving will be offered as per University norms./- INR
+169:
+Course Name: Master of Law (LLM)
+Specialization: PG
+Eligibility Criteria: Recognized Bachelor's Degree in Law (LLB) with atleast 50% marks from a recognized Board / University/- INR
+170:
+Course Name: Master of Optometry
+Specialization: PG
+Eligibility Criteria: Bachelor of Optometry or equivalent from a recognised university with minimum 55% marks or equivalent CGPA./- INR
+171:
+Course Name: Master of Physical Education and Sports
+Specialization: PG
+Eligibility Criteria: For Sports sponsorship category only Candidate must have passed B.P.Ed. / B.P.E.S Program from any recognized University with at least 45% marks in the aggregate. Other Requirements:- 1. Candidate seeking admission to M.P.E.S must qualify the Physical /- INR
+172:
+Course Name: Master of Physiotherapy
+Specialization: PG
+Eligibility Criteria: Bachelor of Physiotherapy duly approved in regular mode with aggregate 55% marks from a recognized Board / University/- INR
+173:
+Course Name: Master of Science (Animation & Multimedia Technology)
+Specialization: PG
+Eligibility Criteria: Bachelor's Degree in any stream with atleast 50% marks in aggregate or its equivalent from a recognized Board / University/- INR
+174:
+Course Name: Master of Science (Medical Lab Technology) (Clinical Biochemistry)
+Specialization: PG
+Eligibility Criteria: B.Sc. MLT / B.Sc. Bio-Chemistry with honours/- INR
+175:
+Course Name: Master of Science (Medical Lab Technology) (Clinical Microbiology)
+Specialization: PG
+Eligibility Criteria: B.Sc. MLT / B.Sc. Microbiology with honours/- INR
+176:
+Course Name: Master of Science (Microbiology)
+Specialization: PG
+Eligibility Criteria: Bachelor's degree with atleast 50% marks in any branch of Life Science / Agriculture/ Pharmacy / Veterinary / Medicine (MBBS) / Medical Lab Technology / Nursing or its equivalent/- INR
+177:
+Course Name: Master of Science - Physics (ITP)
+Specialization: PG
+Eligibility Criteria: B.Sc. or B.Sc. (Honours) in Physics from recognized university with 50% marks, B.Sc. (Honours) in any subject under CBCS with 24 credits in Physics / B.Sc. (Honours) / Electronics, with 50% Marks or, B.Tech/B.E. (Electronics/Electrical/Mechanical or equivalent) with 50% marks/- INR
+178:
+Course Name: Master of Science -Data Science (ITP)
+Specialization: PG
+Eligibility Criteria: Candidate must have completed bachelor's degree in B.A./BCA/B.Sc. / B.Com (Statistics / Commerce or Mathematics or Computer Science) /B.E/B.Tech OR equivalent undergraduate degree with any one of the following subject Computer Science/ Mathematics/ Statistics with atleast 50% marks in aggregate/- INR
+179:
+Course Name: Master of Science- (Biotechnology)
+Specialization: PG
+Eligibility Criteria: Bachelor's degree with atleast 50% marks in any branch of Life Science / Agriculture/ Pharmacy / Veterinary / Medicine (MBBS) / Medical Lab Technology / Nursing or its equivalent/- INR
+180:
+Course Name: MBA - (Banking and Financial Engineering) in association with SBI and Tally
+Specialization: PG
+Eligibility Criteria: Bachelor degree or its' equivalent in any discipline with atleast 50% marks from recognized University/ Institution. Applicants with Commerce background will be preferred. Graduates of recognized professional programmes like CA/ ICWA etc. are also eligible to apply./- INR
+181:
+Course Name: MBA - (Business Analytics) in association with IBM
+Specialization: PG
+Eligibility Criteria: Bachelor degree in any discipline with atleast 50% marks from recognized University/ Institution with Mathematics/Statistics/Quantitative Techniques as one of the subjects at 10+2 or Graduation Level. Graduates of recognized professional programmes like CA/ ICWA/CS etc. are also eligible to apply./- INR
+182:
+Course Name: MBA - (Business Analytics) in association with IBM (ITP)
+Specialization: PG
+Eligibility Criteria: Bachelor degree in any discipline with atleast 55% marks from recognized University/ Institution with Mathematics/Statistics/Quantitative Techniques as one of the subjects at 10+2 or Graduation Level. Graduates of recognized professional programmes like CA/ ICWA/CS etc. are also eligible to apply./- INR
+183:
+Course Name: MBA - (Data Science and Artificial Intelligence)
+Specialization: PG
+Eligibility Criteria: Bachelor degree in any discipline with atleast 50% marks from recognized University/ Institution with Mathematics/Statistics/Quantitative Techniques as one of the subjects at 10+2 or Graduation Level./- INR
+184:
+Course Name: MBA - (Digital Marketing)
+Specialization: PG
+Eligibility Criteria: Bachelor degree in any discipline with atleast 50% marks from recognized University/ Institution. Graduates of recognized professional programmes like CA/ ICWA etc. are also eligible to apply./- INR
+185:
+Course Name: MBA - (FinTech)
+Specialization: PG
+Eligibility Criteria: Bachelor degree or its' equivalent in any discipline with atleast 50% marks from recognized University. Applicants with Commerce background will be preferred./- INR
+186:
+Course Name: MBA - (Healthcare and Life Sciences)
+Specialization: PG
+Eligibility Criteria: Bachelor degree in any discipline with atleast 50% marks from recognized University/ Institution at Graduation Level./- INR
+187:
+Course Name: MBA - (Master Of Business Administration)
+Specialization: PG
+Eligibility Criteria: Bachelor degree in any discipline with atleast 50% marks from recognized University/ Institution. Graduates of recognized professional programmes like CA/ ICWA etc. are also eligible to apply./- INR
+188:
+Course Name: MBA - (Strategic HR)- ITP (Study in USA)
+Specialization: PG
+Eligibility Criteria: Bachelor degree or its' equivalent in any discipline with atleast 50% marks from recognized University/ Institution. Graduates of recognized professional programmes like CA/ ICWA/CS etc. are also eligible to apply./- INR
+189:
+Course Name: MBA - (Strategic-HR)
+Specialization: PG
+Eligibility Criteria: Bachelor degree or its' equivalent in any discipline with atleast 50% marks from recognized University/ Institution. Graduates of recognized professional programmes like CA/ ICWA/CS etc. are also eligible to apply./- INR
+190:
+Course Name: MBA - (Tourism & Hospitality Management)
+Specialization: PG
+Eligibility Criteria: Bachelor degree in any discipline with atleast 45% marks in aggregate from recognized University/ Institution./- INR
+191:
+Course Name: MBA - ITP (Study in USA)
+Specialization: PG
+Eligibility Criteria: Bachelor degree in any discipline with atleast 50% marks from recognized University/ Institution. Graduates of recognized professional programmes like CA/ ICWA etc. are also eligible to apply./- INR
+192:
+Course Name: MBA - Logistics and Supply Chain Management
+Specialization: PG
+Eligibility Criteria: "Bachelor degree or its equivalent in any discipline with at least 50% marks in aggregate from recognized University/Institution. Graduates of recognized professional programmes like CA/ICWA/CS etc. are also eligible to apply./- INR
+193:
+Course Name: MBA - UNA (ITP)
+Specialization: PG
+Eligibility Criteria: Bachelor degree in any discipline with atleast 50% marks from recognized University/ Institution. Graduates of recognized professional programmes like CA/ ICWA etc. are also eligible to apply./- INR
+194:
+Course Name: ME - (CSE) with specialization in Cloud Computing (in collaboration with Virtusa)
+Specialization: PG
+Eligibility Criteria: Passed B.E./ B.Tech. in CSE/ IT/ ECE/ CS or equivalent with atleast 55% marks or M.Sc (CS/IT/CSE) / MS (CS/IT/CSE) / MCA or equivalent with atleast 55% marks in the qualifying examination./- INR
+195:
+Course Name: ME - (Electrical Engineering)
+Specialization: PG
+Eligibility Criteria: Bachelor’s Degree (4YEARS) in the relevant field of Engineering or equivalent with at least 55% marks in the qualifying examination./- INR
+196:
+Course Name: ME - (Electronics and Communication Engineering)
+Specialization: PG
+Eligibility Criteria: Bachelor’s Degree (4YEARS) in the relevant field of Engineering or equivalent with at least 55% marks in the qualifying examination./- INR
+197:
+Course Name: ME - (Mechanical Engineering)
+Specialization: PG
+Eligibility Criteria: Bachelor’s Degree (4YEARS) in the relevant field of Engineering or equivalent with at least 55% marks in the qualifying examination./- INR
+198:
+Course Name: ME - (Mechanical Engineering) – ITP (Study in USA)
+Specialization: PG
+Eligibility Criteria: Bachelor’s Degree in the relevant field of Engineering or equivalent with at least 55% marks in the qualifying examination./- INR
+199:
+Course Name: ME - Artificial Intelligence
+Specialization: PG
+Eligibility Criteria: Bachelor’s Degree in the relevant field of Engineering or equivalent with at least 55% marks in the qualifying examination./- INR
+200:
+Course Name: ME - Automobile Engineering
+Specialization: PG
+Eligibility Criteria: Bachelor’s Degree in the relevant field of Engineering or equivalent with at least 55% marks in the qualifying examination./- INR
+201:
+Course Name: ME - Civil Engineering (Construction Technology and Management) - (ITP)
+Specialization: PG
+Eligibility Criteria: Bachelor’s Degree in the relevant field of Engineering or equivalent with at least 55% marks in the qualifying examination./- INR
+202:
+Course Name: ME - Civil Engineering (Geotechnical)
+Specialization: PG
+Eligibility Criteria: Bachelor’s Degree in the Civil Engg. or equivalent with at least 55% marks in the qualifying examination. /- INR
+203:
+Course Name: ME - Civil Engineering (Structural Engineering)
+Specialization: PG
+Eligibility Criteria: Bachelor’s Degree in the relevant field of Engineering or equivalent with at least 55% marks in the qualifying examination./- INR
+204:
+Course Name: ME - Civil Engineering (Transportation Engineering)
+Specialization: PG
+Eligibility Criteria: Bachelor’s Degree in the relevant field of Engineering or equivalent with at least 55% marks in the qualifying examination./- INR
+205:
+Course Name: ME - Civil Engineering + Doctor of Philosophy
+Specialization: PG
+Eligibility Criteria: Bachelor’s Degree in the relevant field or equivalent with at least 55% marks in the qualifying examination./- INR
+206:
+Course Name: ME - Civil Engineering - (Construction Technology & Management (CTM)
+Specialization: PG
+Eligibility Criteria: Bachelor’s Degree in the relevant field of Engineering or equivalent with at least 55% marks in the qualifying examination./- INR
+207:
+Course Name: ME - Computer Science & Engineering (ITP)
+Specialization: PG
+Eligibility Criteria: Bachelor’s Degree in the relevant field of Engineering or equivalent with at least 55% marks in the qualifying examination./- INR
+208:
+Course Name: ME - Computer Science & Engineering + Doctor of Philosophy
+Specialization: PG
+Eligibility Criteria: Passed B.E./ B.Tech. in CSE/ IT/ ECE/ CS or equivalent with atleast 55% marks or M.Sc (CS/IT/CSE) / MS (CS/IT/CSE) / MCA or equivalent with atleast 55% marks in the qualifying examination./- INR
+209:
+Course Name: ME - Computer Science and Engineering
+Specialization: PG
+Eligibility Criteria: Passed B.E./ B.Tech. in CSE/ IT/ ECE/ CS or equivalent with atleast 55% marks or M.Sc (CS/IT/CSE) / MS (CS/IT/CSE) / MCA or equivalent with atleast 55% marks in the qualifying examination./- INR
+210:
+Course Name: ME - CSE (Artificial Intelligence & Machine Learning)
+Specialization: PG
+Eligibility Criteria: Passed B.E./ B.Tech. in CSE/ IT/ ECE/ CS or equivalent with atleast 55% marks or M.Sc (CS/IT/CSE) / MS (CS/IT/CSE) / MCA or equivalent with atleast 55% marks in the qualifying examination./- INR
+211:
+Course Name: ME - Electrical Engineering (Electric Vehicles)
+Specialization: PG
+Eligibility Criteria: Bachelor’s Degree (4YEARS) in the relevant field of Engineering or equivalent with at least 55% marks in the qualifying examination./- INR
+212:
+Course Name: ME - Electrical Engineering (ITP)
+Specialization: PG
+Eligibility Criteria: Bachelor’s Degree in the relevant field of Engineering or equivalent with at least 55% marks in the qualifying examination./- INR
+213:
+Course Name: ME - Electrical Engineering + Doctor of Philosophy
+Specialization: PG
+Eligibility Criteria: Bachelor’s Degree (4YEARS) in the relevant field of Engineering or equivalent with at least 55% marks in the qualifying examination./- INR
+214:
+Course Name: ME - Electronics & Communication Engineering + Doctor of Philosophy
+Specialization: PG
+Eligibility Criteria: Bachelor’s Degree (4YEARS) in the relevant field of Engineering or equivalent with at least 55% marks in the qualifying examination./- INR
+215:
+Course Name: ME - Electronics and Communication Engineering (ITP)
+Specialization: PG
+Eligibility Criteria: Bachelor’s Degree in the relevant field of Engineering or equivalent with at least 55% marks in the qualifying examination./- INR
+216:
+Course Name: ME - Environment Engineering
+Specialization: PG
+Eligibility Criteria: Passed B.E./ B.Tech. in any branch with atleast 55% marks or M.Sc (Chemistry, Physics, Geology, Earth Sciences) or equivalent with atleast 55% marks/- INR
+217:
+Course Name: ME - Mechanical Engineering + Doctor of Philosophy
+Specialization: PG
+Eligibility Criteria: Bachelor’s Degree (4YEARS) in the relevant field of Engineering or equivalent with at least 55% marks in the qualifying examination./- INR
+218:
+Course Name: ME - Robotics & Automation
+Specialization: PG
+Eligibility Criteria: Bachelor’s Degree (4YEARS) in the relevant field of Engineering or equivalent with at least 55% marks in the qualifying examination./- INR
+219:
+Course Name: ME – Automobile Engineering (ITP)
+Specialization: PG
+Eligibility Criteria: Bachelor’s Degree in the relevant field of Engineering or equivalent with at least 55% marks in the qualifying examination./- INR

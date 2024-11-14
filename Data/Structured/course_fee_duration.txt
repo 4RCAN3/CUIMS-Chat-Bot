@@ -1,0 +1,865 @@
+course_fee_duration
+1:
+Name of Program: Master of Business Administration (under CASSM)
+Duration: 2 Years
+Fee per Semester: 139900/- INR
+2:
+Name of Program: B.Sc - (Computer Science, Statistics and Mathematics)
+Duration: 4 Years
+Fee per Semester: 38150/- INR
+3:
+Name of Program: B.Sc - (Forensic Science)
+Duration: 4 Years
+Fee per Semester: 63150/- INR
+4:
+Name of Program: B.Sc - (Hons.) (Medical Lab Technology)
+Duration: 4 Years
+Fee per Semester: 66000/- INR
+5:
+Name of Program: B.Sc - (Hons.) (Medical Lab Technology) - Lateral Entry
+Duration: 3 Years
+Fee per Semester: 66150/- INR
+6:
+Name of Program: B.Sc - (Hons.) Mathematics
+Duration: 4 Years
+Fee per Semester: 45650/- INR
+7:
+Name of Program: B.Sc - (Microbiology )
+Duration: 4 Years
+Fee per Semester: 55650/- INR
+8:
+Name of Program: B.Sc - (Nutrition & Dietetics)
+Duration: 4 Years
+Fee per Semester: 70150/- INR
+9:
+Name of Program: B.Sc - Chemistry (Hons.)
+Duration: 4 Years
+Fee per Semester: 45650/- INR
+10:
+Name of Program: B.Sc - Medical
+Duration: 4 Years
+Fee per Semester: 39650/- INR
+11:
+Name of Program: B.Sc - Physics (Hons.)
+Duration: 4 Years
+Fee per Semester: 45650/- INR
+12:
+Name of Program: Bachelor of Architecture
+Duration: 5 Years
+Fee per Semester: 105450/- INR
+13:
+Name of Program: Bachelor of Arts (Journalism and Mass Communication) (ITP)
+Duration: 3 Years
+Fee per Semester: 74150/- INR
+14:
+Name of Program: Bachelor of Arts - Economics
+Duration: 4 Years
+Fee per Semester: 50150/- INR
+15:
+Name of Program: Bachelor of Arts - Journalism and Mass Communication
+Duration: 4 Years
+Fee per Semester: 74150/- INR
+16:
+Name of Program: Bachelor of Arts - Psychology (Hons.)
+Duration: 4 Years
+Fee per Semester: 60150/- INR
+17:
+Name of Program: Bachelor of Business Administration (Hons./Hons. with Research) (FinTech)
+Duration: 4 Years
+Fee per Semester: 81150/- INR
+18:
+Name of Program: Bachelor of Business Administration (Hons./Hons. with Research) (Logistics and Supply Chain Management)
+Duration: 4 Years
+Fee per Semester: 81150/- INR
+19:
+Name of Program: Bachelor of Business Administration + Master of Business Administration (Integrated)
+Duration: 5 Years
+Fee per Semester: 99950/- INR
+20:
+Name of Program: Bachelor of Commerce (B.Com) - Hons ITP (Study in Australia)
+Duration: 3 Years
+Fee per Semester: 75150/- INR
+21:
+Name of Program: Bachelor of Commerce (Hons) General/ Auditing & Taxation/ Advanced Cost & Management Accounting/E-Commerce)
+Duration: 4 Years
+Fee per Semester: 75150/- INR
+22:
+Name of Program: Bachelor of Commerce (In association with Association of Chartered Certified Accountants)
+Duration: 4 Years
+Fee per Semester: 93150/- INR
+23:
+Name of Program: Bachelor of Commerce + Bachelor of Law (B.Com. + LLB(Hons)) - Integrated
+Duration: 5 Years
+Fee per Semester: 87950/- INR
+24:
+Name of Program: Bachelor of Computer Applications
+Duration: 4 Years
+Fee per Semester: 73150/- INR
+25:
+Name of Program: Bachelor of Computer Applications (Hons./Hons. with Research) (Data Science)
+Duration: 4 Years
+Fee per Semester: 75150/- INR
+26:
+Name of Program: Bachelor of Computer Applications (User Interface/ User Experience Design)
+Duration: 4 Years
+Fee per Semester: 75150/- INR
+27:
+Name of Program: Bachelor of Computer Applications - Augmented Reality and Virtual Reality
+Duration: 4 Years
+Fee per Semester: 75650/- INR
+28:
+Name of Program: Bachelor of Computer Applications - ITP (Study in USA)
+Duration: 3 Years
+Fee per Semester: 73150/- INR
+29:
+Name of Program: Bachelor of Design (Fashion)
+Duration: 4 Years
+Fee per Semester: 95500/- INR
+30:
+Name of Program: Bachelor of Design (Industrial)
+Duration: 4 Years
+Fee per Semester: 92500/- INR
+31:
+Name of Program: Bachelor of Design (Interior)
+Duration: 4 Years
+Fee per Semester: 95500/- INR
+32:
+Name of Program: Bachelor of Engineering (Aerospace Engineering)
+Duration: 4 Years
+Fee per Semester: 120500/- INR
+33:
+Name of Program: Bachelor of Engineering (Biotechnology)
+Duration: 4 Years
+Fee per Semester: 102500/- INR
+34:
+Name of Program: Bachelor of Engineering (Biotechnology)- Lateral Entry
+Duration: 3 Years
+Fee per Semester: 102650/- INR
+35:
+Name of Program: Bachelor of Engineering (Computer Science & Engineering) - Lateral Entry
+Duration: 3 Years
+Fee per Semester: 136350/- INR
+36:
+Name of Program: Bachelor of Engineering (Computer Science and Engineering) (Computer Science and Business Systems) (In association with TCS)
+Duration: 4 Years
+Fee per Semester: 125500/- INR
+37:
+Name of Program: Bachelor of Engineering (Computer Science and Engineering) (Hons.) (Big Data and Analytics) (Lateral Entry) (In association with IBM)
+Duration: 3 Years
+Fee per Semester: 145650/- INR
+38:
+Name of Program: Bachelor of Engineering (Computer Science and Engineering) (Hons.) (with Specialization in Artificial Intelligence and Machine Learning) (In association with IBM)
+Duration: 4 Years
+Fee per Semester: 159000/- INR
+39:
+Name of Program: Bachelor of Engineering (Computer Science and Engineering) (Hons.) (with specialization in Artificial Intelligence and Machine Learning) (In association with IBM) (Lateral Entry)
+Duration: 3 Years
+Fee per Semester: 159150/- INR
+40:
+Name of Program: Bachelor of Engineering (Computer Science and Engineering) (Hons.) (with Specialization in Internet of Things) (In association with IBM)
+Duration: 4 Years
+Fee per Semester: 145500/- INR
+41:
+Name of Program: Bachelor of Engineering (Computer Science and Engineering) (Hons.) (with Specialization in Internet of Things) (In association with IBM) (Lateral Entry)
+Duration: 3 Years
+Fee per Semester: 145650/- INR
+42:
+Name of Program: Bachelor of Engineering (Computer Science and Engineering) (with Specialization in Full Stack Development)
+Duration: 4 Years
+Fee per Semester: 143000/- INR
+43:
+Name of Program: Bachelor of Engineering (Hons.) (Computer Science and Engineering) (Cyber Security) (In association with IBM)
+Duration: 4 Years
+Fee per Semester: 145500/- INR
+44:
+Name of Program: Bachelor of Engineering (Hons.) (Computer Science and Engineering) (Cyber Security) (In association with IBM) (ITP)
+Duration: 4 Years
+Fee per Semester: 145500/- INR
+45:
+Name of Program: Bachelor of Engineering (Hons.) (Computer Science and Engineering) (Data Science) (In association with IBM)
+Duration: 4 Years
+Fee per Semester: 145500/- INR
+46:
+Name of Program: Bachelor of Engineering (Hons.) (Computer Science and Engineering) (Data Science) (In association with IBM) (ITP)
+Duration: 4 Years
+Fee per Semester: 145500/- INR
+47:
+Name of Program: Bachelor of Engineering (Information Technology) (ITP)
+Duration: 4 Years
+Fee per Semester: 108500/- INR
+48:
+Name of Program: Bachelor of Engineering - (Aerospace Engg.) - Lateral Entry
+Duration: 3 Years
+Fee per Semester: 120650/- INR
+49:
+Name of Program: Bachelor of Engineering - (Automobile Engineering)- Lateral Entry
+Duration: 3 Years
+Fee per Semester: 102650/- INR
+50:
+Name of Program: Bachelor of Engineering - (Civil Engineering)-Lateral Entry
+Duration: 3 Years
+Fee per Semester: 102650/- INR
+51:
+Name of Program: Bachelor of Engineering - Computer Science & Engineering
+Duration: 4 Years
+Fee per Semester: 136200/- INR
+52:
+Name of Program: Bachelor of Engineering in Computer Science and Engineering (Hons.) IBM - BIG DATA AND ANALYTICS
+Duration: 4 Years
+Fee per Semester: 145000/- INR
+53:
+Name of Program: Bachelor of Engineering in Computer Science and Engineering (Hons.) IBM - BIG DATA AND ANALYTICS – ITP
+Duration: 4 Years
+Fee per Semester: 145000/- INR
+54:
+Name of Program: Bachelor of Engineering in Computer Science and Engineering (Hons.) IBM - INFORMATION SECURITY
+Duration: 4 Years
+Fee per Semester: 145000/- INR
+55:
+Name of Program: Bachelor of Engineering in Computer Science and Engineering (Hons.) IBM - INFORMATION SECURITY – ITP
+Duration: 4 Years
+Fee per Semester: 145000/- INR
+56:
+Name of Program: Bachelor of Engineering in Computer Science and Engineering (Hons.) IBM- Information Security -Lateral Entry
+Duration: 3 Years
+Fee per Semester: 145650/- INR
+57:
+Name of Program: Bachelor of Engineering in Computer Science and Engineering (Hons.) IBM-CLOUD COMPUTING
+Duration: 4 Years
+Fee per Semester: 145500/- INR
+58:
+Name of Program: Bachelor of Engineering in Computer Science and Engineering (Hons.) IBM-Cloud Computing -Lateral Entry
+Duration: 3 Years
+Fee per Semester: 145650/- INR
+59:
+Name of Program: Bachelor of Engineering – (Mechanical Engineering) – ITP (Study in USA)
+Duration: 4 Years
+Fee per Semester: 102500/- INR
+60:
+Name of Program: Bachelor of Engineering – (Mechanical Engineering)(Lateral Entry) – ITP (Study in USA)
+Duration: 3 Years
+Fee per Semester: 102650/- INR
+61:
+Name of Program: Bachelor of Engineering- (Chemical Engineering)- Lateral Entry
+Duration: 3 Years
+Fee per Semester: 84650/- INR
+62:
+Name of Program: Bachelor of Engineering- (Electrical Engineering)
+Duration: 4 Years
+Fee per Semester: 102500/- INR
+63:
+Name of Program: Bachelor of Engineering- (Electrical Engineering)- ITP (Study in USA)
+Duration: 4 Years
+Fee per Semester: 102500/- INR
+64:
+Name of Program: Bachelor of Engineering- (Electrical Engineering)- Lateral Entry
+Duration: 3 Years
+Fee per Semester: 102650/- INR
+65:
+Name of Program: Bachelor of Engineering- (Electrical Engineering)-(Lateral Entry)-ITP (Study in USA)
+Duration: 3 Years
+Fee per Semester: 102650/- INR
+66:
+Name of Program: Bachelor of Engineering- (Electronics and Communication Engineering)
+Duration: 4 Years
+Fee per Semester: 105500/- INR
+67:
+Name of Program: Bachelor of Engineering- (Electronics and Communication Engineering) (ITP)
+Duration: 4 Years
+Fee per Semester: 105500/- INR
+68:
+Name of Program: Bachelor of Engineering- (Electronics and Communication Engineering)- Lateral Entry
+Duration: 3 Years
+Fee per Semester: 105650/- INR
+69:
+Name of Program: Bachelor of Engineering- (Food Technology)
+Duration: 4 Years
+Fee per Semester: 102500/- INR
+70:
+Name of Program: Bachelor of Engineering- (Food Technology)- Lateral Entry
+Duration: 3 Years
+Fee per Semester: 102650/- INR
+71:
+Name of Program: Bachelor of Engineering- (Information Technology)
+Duration: 4 Years
+Fee per Semester: 108500/- INR
+72:
+Name of Program: Bachelor of Engineering- (Information Technology)- Lateral Entry
+Duration: 3 Years
+Fee per Semester: 108650/- INR
+73:
+Name of Program: Bachelor of Engineering- (Mechanical Engineering)
+Duration: 4 Years
+Fee per Semester: 102500/- INR
+74:
+Name of Program: Bachelor of Engineering- (Mechanical Engineering)- Lateral Entry
+Duration: 3 Years
+Fee per Semester: 102650/- INR
+75:
+Name of Program: Bachelor of Engineering- (Mechatronics)
+Duration: 4 Years
+Fee per Semester: 102500/- INR
+76:
+Name of Program: Bachelor of Engineering- (Mechatronics)- Lateral Entry
+Duration: 3 Years
+Fee per Semester: 102650/- INR
+77:
+Name of Program: Bachelor of Engineering- Automobile Engineering
+Duration: 4 Years
+Fee per Semester: 102500/- INR
+78:
+Name of Program: Bachelor of Engineering- Chemical Engineering
+Duration: 4 Years
+Fee per Semester: 84500/- INR
+79:
+Name of Program: Bachelor of Engineering- Civil Engineering
+Duration: 4 Years
+Fee per Semester: 102500/- INR
+80:
+Name of Program: Bachelor of Engineering- Civil Engineering (Lateral Entry)– ITP (Study in USA, Australia)
+Duration: 3 Years
+Fee per Semester: 102650/- INR
+81:
+Name of Program: Bachelor of Engineering- Civil Engineering - ITP (Study in USA, Australia)
+Duration: 4 Years
+Fee per Semester: 102500/- INR
+82:
+Name of Program: Bachelor of Engineering- Computer Science & Engineering - ITP (Study in USA, Australia)
+Duration: 4 Years
+Fee per Semester: 136200/- INR
+83:
+Name of Program: Bachelor of Engineering- Computer Science & Engineering(Lateral Entry) - ITP (Study in USA, Australia)
+Duration: 3 Years
+Fee per Semester: 136350/- INR
+84:
+Name of Program: Bachelor of Engineering- Computer Science Engineering (Graphics & Gaming)- Lateral Entry
+Duration: 3 Years
+Fee per Semester: 128150/- INR
+85:
+Name of Program: Bachelor of Fine Arts
+Duration: 4 Years
+Fee per Semester: 57000/- INR
+86:
+Name of Program: Bachelor of Law - 3 years
+Duration: 3 Years
+Fee per Semester: 65650/- INR
+87:
+Name of Program: Bachelor of Optometry
+Duration: 4 Years
+Fee per Semester: 60000/- INR
+88:
+Name of Program: Bachelor of Optometry - Lateral Entry
+Duration: 3 Years
+Fee per Semester: 60150/- INR
+89:
+Name of Program: Bachelor of Pharmacy (Lateral Entry)
+Duration: 3 Years
+Fee per Semester: 133150/- INR
+90:
+Name of Program: Bachelor of Physical Education and Sports
+Duration: 3 Years
+Fee per Semester: 36150/- INR
+91:
+Name of Program: Bachelor of Physiotherapy
+Duration: 4.5 Years
+Fee per Semester: 76950/- INR
+92:
+Name of Program: Bachelor of Physiotherapy (ITP)
+Duration: 4.5 Years
+Fee per Semester: 76950/- INR
+93:
+Name of Program: Bachelor of Science (Animation, VFX and Gaming)
+Duration: 4 Years
+Fee per Semester: 89150/- INR
+94:
+Name of Program: Bachelor of Science (Biotechnology)
+Duration: 4 Years
+Fee per Semester: 65650/- INR
+95:
+Name of Program: Bachelor of Science (Computer Science)
+Duration: 4 Years
+Fee per Semester: 53150/- INR
+96:
+Name of Program: Bachelor of Science (Computer Science) (ITP)
+Duration: 3 Years
+Fee per Semester: 53150/- INR
+97:
+Name of Program: Bachelor of Science (Culinary Sciences) (ITP)
+Duration: 3 Years
+Fee per Semester: 100150/- INR
+98:
+Name of Program: Bachelor of Science (Fashion & Design)
+Duration: 4 Years
+Fee per Semester: 90150/- INR
+99:
+Name of Program: Bachelor of Science - Airlines & Airport Management
+Duration: 4 Years
+Fee per Semester: 50150/- INR
+100:
+Name of Program: Bachelor of Science - Culinary Sciences
+Duration: 4 Years
+Fee per Semester: 100150/- INR
+101:
+Name of Program: Bachelor of Science - Hotel & Hospitality Management - (Resort & Event Management / Restaurant & Catering Management )
+Duration: 4 Years
+Fee per Semester: 75150/- INR
+102:
+Name of Program: Bachelor of Science - Travel & Tourism Management
+Duration: 4 Years
+Fee per Semester: 50150/- INR
+103:
+Name of Program: Bachelor of Science – (Biotechnology) – ITP (Study in Australia)
+Duration: 3 Years
+Fee per Semester: 65650/- INR
+104:
+Name of Program: Bachelor of Science – Airlines and Airport Management – ITP
+Duration: 3 Years
+Fee per Semester: 50150/- INR
+105:
+Name of Program: Bachelor of Science – Chemistry (Hons.) - ITP (Study in Australia)
+Duration: 3 Years
+Fee per Semester: 45650/- INR
+106:
+Name of Program: Bachelor of Science – Hotel & Hospitality Management- (Resort & Event Management / Restaurant & Catering Management)- ITP (Study in Canada)
+Duration: 3 Years
+Fee per Semester: 75150/- INR
+107:
+Name of Program: Bachelor of Science – Travel and Tourism Management – ITP (Study in USA, Italy)
+Duration: 3 Years
+Fee per Semester: 49500/- INR
+108:
+Name of Program: Bachelor of Science- (Interior Design)
+Duration: 4 Years
+Fee per Semester: 90150/- INR
+109:
+Name of Program: BBA (Hons) - Business Analytics
+Duration: 4 Years
+Fee per Semester: 81150/- INR
+110:
+Name of Program: BBA (Hons)- Digital Marketing
+Duration: 4 Years
+Fee per Semester: 81150/- INR
+111:
+Name of Program: BBA + LLB (Hons) - Integrated
+Duration: 5 Years
+Fee per Semester: 87950/- INR
+112:
+Name of Program: BBA - (Bachelor of Business Administration)
+Duration: 4 Years
+Fee per Semester: 78150/- INR
+113:
+Name of Program: BBA - (Chartered Certified Accountants)
+Duration: 4 Years
+Fee per Semester: 93150/- INR
+114:
+Name of Program: BBA - ITP (Study in USA, Australia)
+Duration: 3 Years
+Fee per Semester: 78150/- INR
+115:
+Name of Program: BE + ME (Computer Science and Engineering) (Integrated)
+Duration: 5 Years
+Fee per Semester: 98000/- INR
+116:
+Name of Program: Doctor of Philosophy (Architecture)
+Duration: 3 Years
+Fee per Semester: 70000/- INR
+117:
+Name of Program: Doctor Of Philosophy (Biotechnology)
+Duration: 6 Years
+Fee per Semester: 70000/- INR
+118:
+Name of Program: Doctor Of Philosophy (Business Management)
+Duration: 6 Years
+Fee per Semester: 70000/- INR
+119:
+Name of Program: Doctor Of Philosophy (Chemistry)
+Duration: 6 Years
+Fee per Semester: 70000/- INR
+120:
+Name of Program: Doctor of Philosophy (Civil Engineering)
+Duration: 6 Years
+Fee per Semester: 70000/- INR
+121:
+Name of Program: Doctor Of Philosophy (Computer Science & Engineering)
+Duration: 6 Years
+Fee per Semester: 70000/- INR
+122:
+Name of Program: Doctor Of Philosophy (Mechanical Engineering)
+Duration: 6 Years
+Fee per Semester: 70000/- INR
+123:
+Name of Program: Doctor of Philosophy (Pharmaceutical Sciences)
+Duration: 6 Years
+Fee per Semester: 70000/- INR
+124:
+Name of Program: Doctor Of Philosophy (Physics)
+Duration: 6 Years
+Fee per Semester: 70000/- INR
+125:
+Name of Program: Doctor of Philosophy - Tourism & Hospitality Management
+Duration: 3 Years
+Fee per Semester: 70000/- INR
+126:
+Name of Program: Doctor of Philosophy- (Economics)
+Duration: 3 Years
+Fee per Semester: 70000/- INR
+127:
+Name of Program: Doctor of Philosophy- (Education)
+Duration: 3 Years
+Fee per Semester: 70000/- INR
+128:
+Name of Program: Doctor of Philosophy- (Electrical Engineering)
+Duration: 6 Years
+Fee per Semester: 70000/- INR
+129:
+Name of Program: Doctor of Philosophy- (Electronics and Communication Engineering)
+Duration: 6 Years
+Fee per Semester: 70000/- INR
+130:
+Name of Program: Doctor of Philosophy- (English)
+Duration: 3 Years
+Fee per Semester: 70000/- INR
+131:
+Name of Program: Doctor of Philosophy- (Mathematics)
+Duration: 6 Years
+Fee per Semester: 70000/- INR
+132:
+Name of Program: Doctor of Philosophy- (Psychology)
+Duration: 3 Years
+Fee per Semester: 70000/- INR
+133:
+Name of Program: Doctor of Philosophy- Mass Communication
+Duration: 3 Years
+Fee per Semester: 70000/- INR
+134:
+Name of Program: Doctor of Philosophy:- Commerce
+Duration: 3 Years
+Fee per Semester: 70000/- INR
+135:
+Name of Program: Doctor of Philosophy:- Computer Applications
+Duration: 6 Years
+Fee per Semester: 70000/- INR
+136:
+Name of Program: Doctor of Philosophy:- Forensic Science
+Duration: 6 Years
+Fee per Semester: 70000/- INR
+137:
+Name of Program: Doctor of Philosophy:- Law
+Duration: 3 Years
+Fee per Semester: 70000/- INR
+138:
+Name of Program: M.Sc - (Botany)
+Duration: 2 Years
+Fee per Semester: 40400/- INR
+139:
+Name of Program: M.Sc - (Chemistry)
+Duration: 2 Years
+Fee per Semester: 40400/- INR
+140:
+Name of Program: M.Sc - (Data Science)
+Duration: 2 Years
+Fee per Semester: 53400/- INR
+141:
+Name of Program: M.Sc - (Forensic Science)
+Duration: 2 Years
+Fee per Semester: 75400/- INR
+142:
+Name of Program: M.Sc - (Industrial Chemistry)
+Duration: 2 Years
+Fee per Semester: 42900/- INR
+143:
+Name of Program: M.Sc - (Industrial Microbiology)
+Duration: 2 Years
+Fee per Semester: 59500/- INR
+144:
+Name of Program: M.Sc - (Mathematics)
+Duration: 2 Years
+Fee per Semester: 35900/- INR
+145:
+Name of Program: M.Sc - (Nutrition and Dietetics)
+Duration: 2 Years
+Fee per Semester: 59400/- INR
+146:
+Name of Program: M.Sc - (Physics)
+Duration: 2 Years
+Fee per Semester: 40400/- INR
+147:
+Name of Program: M.Sc - (Zoology)
+Duration: 2 Years
+Fee per Semester: 40400/- INR
+148:
+Name of Program: M.Sc - Forensic Science (ITP)
+Duration: 2 Years
+Fee per Semester: 75400/- INR
+149:
+Name of Program: M.Sc - Mathematics (ITP)
+Duration: 2 Years
+Fee per Semester: 35900/- INR
+150:
+Name of Program: Master of Architecture
+Duration: 2 Years
+Fee per Semester: 56400/- INR
+151:
+Name of Program: Master of Arts - (Economics)
+Duration: 2 Years
+Fee per Semester: 45900/- INR
+152:
+Name of Program: Master of Arts - (Journalism & Mass Communication)
+Duration: 2 Years
+Fee per Semester: 63400/- INR
+153:
+Name of Program: Master of Arts - Clinical Psychology
+Duration: 2 Years
+Fee per Semester: 63400/- INR
+154:
+Name of Program: Master of Arts - English
+Duration: 2 Years
+Fee per Semester: 35900/- INR
+155:
+Name of Program: Master of Arts - Psychology
+Duration: 2 Years
+Fee per Semester: 35900/- INR
+156:
+Name of Program: Master of Business Administration (Applied Finance)
+Duration: 2 Years
+Fee per Semester: 170900/- INR
+157:
+Name of Program: Master of Business Administration (Healthcare and Hospital Management)
+Duration: 2 Years
+Fee per Semester: 155900/- INR
+158:
+Name of Program: Master of Business Administration (Tourism and Hospitality Management) (ITP)
+Duration: 2 Years
+Fee per Semester: 110000/- INR
+159:
+Name of Program: Master of Business Administration (Tourism, Hospitality and Aviation)
+Duration: 2 Years
+Fee per Semester: 110900/- INR
+160:
+Name of Program: Master of Business Administration (Tourism, Hospitality and Aviation) (ITP)
+Duration: 2 Years
+Fee per Semester: 110900/- INR
+161:
+Name of Program: Master of Commerce (In association with Association of Chartered Certified Accountants)
+Duration: 2 Years
+Fee per Semester: 70900/- INR
+162:
+Name of Program: Master of Computer Applications
+Duration: 2 Years
+Fee per Semester: 75900/- INR
+163:
+Name of Program: Master of Computer Applications - Artificial Intelligence & Machine Learning
+Duration: 2 Years
+Fee per Semester: 80400/- INR
+164:
+Name of Program: Master of Computer Applications - Cloud Computing and DevOps
+Duration: 2 Years
+Fee per Semester: 80400/- INR
+165:
+Name of Program: Master of Computer Applications - Cloud Computing and DevOps (ITP)
+Duration: 2 Years
+Fee per Semester: 80400/- INR
+166:
+Name of Program: Master of Computer Applications - ITP (Study in USA)
+Duration: 2 Years
+Fee per Semester: 75900/- INR
+167:
+Name of Program: Master of Law (LLM)
+Duration: 1 Years
+Fee per Semester: 69000/- INR
+168:
+Name of Program: Master of Optometry
+Duration: 2 Years
+Fee per Semester: 45900/- INR
+169:
+Name of Program: Master of Physical Education and Sports
+Duration: 2 Years
+Fee per Semester: 30900/- INR
+170:
+Name of Program: Master of Physiotherapy
+Duration: 2 Years
+Fee per Semester: 60400/- INR
+171:
+Name of Program: Master of Science (Animation & Multimedia Technology)
+Duration: 2 Years
+Fee per Semester: 49400/- INR
+172:
+Name of Program: Master of Science (Medical Lab Technology) (Clinical Biochemistry)
+Duration: 2 Years
+Fee per Semester: 50900/- INR
+173:
+Name of Program: Master of Science (Medical Lab Technology) (Clinical Microbiology)
+Duration: 2 Years
+Fee per Semester: 54900/- INR
+174:
+Name of Program: Master of Science (Microbiology)
+Duration: 2 Years
+Fee per Semester: 60400/- INR
+175:
+Name of Program: Master of Science - Physics (ITP)
+Duration: 2 Years
+Fee per Semester: 40400/- INR
+176:
+Name of Program: Master of Science -Data Science (ITP)
+Duration: 2 Years
+Fee per Semester: 53400/- INR
+177:
+Name of Program: Master of Science- (Biotechnology)
+Duration: 2 Years
+Fee per Semester: 68400/- INR
+178:
+Name of Program: MBA - (Banking and Financial Engineering) in association with SBI and Tally
+Duration: 2 Years
+Fee per Semester: 155900/- INR
+179:
+Name of Program: MBA - (Business Analytics) in association with IBM
+Duration: 2 Years
+Fee per Semester: 155900/- INR
+180:
+Name of Program: MBA - (Business Analytics) in association with IBM (ITP)
+Duration: 2 Years
+Fee per Semester: 155900/- INR
+181:
+Name of Program: MBA - (Data Science and Artificial Intelligence)
+Duration: 2 Years
+Fee per Semester: 155900/- INR
+182:
+Name of Program: MBA - (Digital Marketing)
+Duration: 2 Years
+Fee per Semester: 145900/- INR
+183:
+Name of Program: MBA - (FinTech)
+Duration: 2 Years
+Fee per Semester: 170400/- INR
+184:
+Name of Program: MBA - (Healthcare and Life Sciences)
+Duration: 2 Years
+Fee per Semester: 155000/- INR
+185:
+Name of Program: MBA - (Master Of Business Administration)
+Duration: 2 Years
+Fee per Semester: 139900/- INR
+186:
+Name of Program: MBA - (Strategic HR)- ITP (Study in USA)
+Duration: 2 Years
+Fee per Semester: 155900/- INR
+187:
+Name of Program: MBA - (Strategic-HR)
+Duration: 2 Years
+Fee per Semester: 155900/- INR
+188:
+Name of Program: MBA - (Tourism & Hospitality Management)
+Duration: 2 Years
+Fee per Semester: 110000/- INR
+189:
+Name of Program: MBA - ITP (Study in USA)
+Duration: 2 Years
+Fee per Semester: 139900/- INR
+190:
+Name of Program: MBA - Logistics and Supply Chain Management
+Duration: 2 Years
+Fee per Semester: 145900/- INR
+191:
+Name of Program: ME - (CSE) with specialization in Cloud Computing (in collaboration with Virtusa)
+Duration: 2 Years
+Fee per Semester: 57400/- INR
+192:
+Name of Program: ME - (Electrical Engineering)
+Duration: 2 Years
+Fee per Semester: 57400/- INR
+193:
+Name of Program: ME - (Electronics and Communication Engineering)
+Duration: 2 Years
+Fee per Semester: 57400/- INR
+194:
+Name of Program: ME - (Mechanical Engineering)
+Duration: 2 Years
+Fee per Semester: 57400/- INR
+195:
+Name of Program: ME - (Mechanical Engineering) – ITP (Study in USA)
+Duration: 2 Years
+Fee per Semester: 57400/- INR
+196:
+Name of Program: ME - Artificial Intelligence
+Duration: 2 Years
+Fee per Semester: 57400/- INR
+197:
+Name of Program: ME - Automobile Engineering
+Duration: 2 Years
+Fee per Semester: 57400/- INR
+198:
+Name of Program: ME - Civil Engineering (Construction Technology and Management) - (ITP)
+Duration: 2 Years
+Fee per Semester: 57400/- INR
+199:
+Name of Program: ME - Civil Engineering (Geotechnical)
+Duration: 2 Years
+Fee per Semester: 57400/- INR
+200:
+Name of Program: ME - Civil Engineering (Structural Engineering)
+Duration: 2 Years
+Fee per Semester: 57400/- INR
+201:
+Name of Program: ME - Civil Engineering (Transportation Engineering)
+Duration: 2 Years
+Fee per Semester: 57400/- INR
+202:
+Name of Program: ME - Civil Engineering + Doctor of Philosophy
+Duration: 5 Years
+Fee per Semester: 56500/- INR
+203:
+Name of Program: ME - Civil Engineering - (Construction Technology & Management (CTM)
+Duration: 2 Years
+Fee per Semester: 57400/- INR
+204:
+Name of Program: ME - Computer Science & Engineering (ITP)
+Duration: 2 Years
+Fee per Semester: 57400/- INR
+205:
+Name of Program: ME - Computer Science & Engineering + Doctor of Philosophy
+Duration: 5 Years
+Fee per Semester: 56500/- INR
+206:
+Name of Program: ME - Computer Science and Engineering
+Duration: 2 Years
+Fee per Semester: 57400/- INR
+207:
+Name of Program: ME - CSE (Artificial Intelligence & Machine Learning)
+Duration: 2 Years
+Fee per Semester: 62900/- INR
+208:
+Name of Program: ME - Electrical Engineering (Electric Vehicles)
+Duration: 2 Years
+Fee per Semester: 57400/- INR
+209:
+Name of Program: ME - Electrical Engineering (ITP)
+Duration: 2 Years
+Fee per Semester: 57400/- INR
+210:
+Name of Program: ME - Electrical Engineering + Doctor of Philosophy
+Duration: 5 Years
+Fee per Semester: 56500/- INR
+211:
+Name of Program: ME - Electronics & Communication Engineering + Doctor of Philosophy
+Duration: 5 Years
+Fee per Semester: 56500/- INR
+212:
+Name of Program: ME - Electronics and Communication Engineering (ITP)
+Duration: 2 Years
+Fee per Semester: 57400/- INR
+213:
+Name of Program: ME - Environment Engineering
+Duration: 2 Years
+Fee per Semester: 57400/- INR
+214:
+Name of Program: ME - Mechanical Engineering + Doctor of Philosophy
+Duration: 5 Years
+Fee per Semester: 56500/- INR
+215:
+Name of Program: ME - Robotics & Automation
+Duration: 2 Years
+Fee per Semester: 57400/- INR
+216:
+Name of Program: ME – Automobile Engineering (ITP)
+Duration: 2 Years
+Fee per Semester: 57400/- INR

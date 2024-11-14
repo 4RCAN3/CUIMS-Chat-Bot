@@ -1,0 +1,142 @@
+faq
+1:
+question: When will I receive information in the mail?
+answer: All the information is already being sent on the email IDs of the students and also uploaded on the UIMS.
+2:
+question: Is Orientation mandatory?
+answer: Yes, it is highly recommended for the students to attend the orientation as it will provide them with information about various rules, regulations and policies of the university.
+3:
+question: How do I register for Orientation?
+answer: There is no separate registration for the orientation .The students will get themselves registered in the departments on first day according to their schedule .The schedule can be checked on the UIMS or on the university website.
+4:
+question: Can I change my session date or other details as per my reservation?
+answer: There is no separate registration for the orientation .The students will get themselves registered in the departments on first day according to their schedule .The schedule can be checked on the UIMS or on the university website.
+5:
+question: Does Orientation cost anything for me?
+answer: No, there is no charge for the orientation
+6:
+question: Who will address at the Orientation Programme ?
+answer: Honorable Chancellor, Vice-Chancellor and other Senior functionaries.
+7:
+question: When can first-year students move into the hostels?
+answer: The students are suggested to move in the hostel at least one day in advance as per their orientation schedule.
+8:
+question: May I bring my belongings to campus early to store them until classes’ starts?
+answer: In case the student has planned to arrive early in the campus, the university shall provide him /her with the hostel facility so that he/she can store the belongings.
+9:
+question: Should parents make it a point to attend the Parent/Family Orientation sessions?
+answer: It will be better if parents of the students also attend the Orientation sessions.
+10:
+question: What activities can I pursue at CU?
+answer: The university offers many Cultural Committees and several Technical Clubs at both university and department level in which he/she can get enrolled as per his/her interest.
+11:
+question: Can I get accommodation for my parent in hostel in orientation?
+answer: Yes, the accommodation for parents is available in the hostel. The preferred stay is generally for one day.
+12:
+question: Where do I send my high school/college transcripts?
+answer: 
+All the documents mentioned in the checklist should be submitted to Mr. Bhupinder Singh, Office Superintendent, Registration Branch, Block No. 4, Room No. 102 (General Category) and to Ms. Radha Sharma, Block No. 1, Room no. 204 (SC/ST category).
+13:
+question: Where do I send scholarship checks?
+answer: All queries w.r.t. CU scholarships and Govt. aided scholarships will be entertained in the Scholarship Branch, Room No. 204, Academic Block-1. Ph. 0160-3014412 / 0160-3014403 Email: ar.radhasharma@cumail.in
+14:
+question: Does CU have shuttle service from the airport, railway station or bus stand?
+answer: Yes, we will run the shuttle service from CU to airport, railway station and Chandigarh bus stand during the admission period subject to the prior information of arrival in small batches. The help line numbers for availing the facility are 8146651560, 8146651570 and 8146651659.
+15:
+question: What should I bring; what will I need in my hostel room?
+answer: The students are supposed to bring a lock with five keys for the room, one small lock for the cupboard, bedding, one quantity each of bucket, mug , dustbin, doormat, plate, bowl, glass ,water bottle, spoon, one small size wiper and personal toiletry items.
+16:
+question: What kind of bedding will I need?
+answer: The bedding includes one mattress, two bed sheets, one pillow, two pillow covers, one quilt and one blanket. The bed sheet should be of standard size single bed.
+17:
+question: Where can I do my laundry?
+answer: The hostel provides the facility of laundry to students.
+18:
+question: Who runs the building I'll be living in?
+answer: The hostel has three important levels that are Wardens, Chief Hostel Warden and General Manager.
+19:
+question: How do I get my belongings to my hostel room?
+answer: Once you reach the university campus, university will provide manpower to the students in order to help them shift their belongings.
+20:
+question: When is move-in and move-out?
+answer: The students are not allowed to move out during the academics hours unless there is an emergency. They can, however, go out in the evening according the outing schedule by following the proper procedure.
+21:
+question: How can I set up a bank account?
+answer: There is a branch of SBI in the university campus near the main gate of the university and bank account can be opened.
+22:
+question: How can I get Fee Statement?
+answer: It can be Downloaded /seen in UIMS Accounts.
+23:
+question: How can I pay my pending fees?
+answer: Fees can be paid Online, NEFT, Debit Card, Credit Card, Net Banking/ Cash at fee counters or pay at PNB/ICICI through Challan generated at UIMS.
+24:
+question: When are my tuition fees due?
+answer: The Semesters fees (including Academic, Hostel, Transport are to be paid in October/April every year for the respective semester.
+25:
+question: How can I get my student UID and ID card?
+answer: The UID and ID cards will be issued by the HODs of the respective departments.
+26:
+question: What happens if I lose my card?
+answer: The student can apply for duplicate card from the student care centre after due payment.
+27:
+question: From where can I get my Time Table?
+answer: It can be downloaded from the UIMS.
+28:
+question: From where can I get my Syllabus (Course Curriculum)?
+answer: It can be downloaded from the UIMS.
+29:
+question: How do you find the locations of your classes?
+answer: The university will set up student help desk at the entrance of the campus. The students will also be provided with complete minute to minute schedule for one day.
+30:
+question: When do classes start?
+answer: For the new academic sessions, the students are suggested to consult the Orientation Schedule available on UIMS and/or the university website. The classes will start at 9.30 a.m sharp.
+31:
+question: When will I receive course registration materials?
+answer: On the day of Registration / reporting.
+32:
+question: When can I register for classes?
+answer: The students have to attend and register for the classes on the day of reporting as their attendance will be counted from the first day itself.
+33:
+question: From where do I get my Internet user password?
+answer: Firstly Student UID will be the Username & Password for internet access.
+34:
+question: How do I connect to the Chandigarh University Wi-Fi?
+answer: The student's UID will be the Username & Password for Wi-Fi access.
+35:
+question: 
+Can I get Internet and email access in my room?
+answer: After connecting to internet either wired or Wi-Fi can access his/her Email Id and other internet services.
+36:
+question: What kind of computer support is available on campus?
+answer: Each block has the facility of computer labs where Lab Attendant will assist the student. More over each block has the library with the facility of computers connected to internet. The campus and all hostels has facility of Wi-Fi where you can connect your two personal devices to network.
+37:
+question: Do I require Laptop in my studies?
+answer: Yes, it is recommended to have personal laptop.
+38:
+question: How do I access CUIMS?
+answer: Chandigarh university has information portal with the name of CUIMS and the portal web address is cuims.in.where you will be able to see latest announcements about your study, university news etc. You can also see your attendance, fee status on your UIMS. The ERP is working to provide you more useful information on UIMS.
+39:
+question: I tried to log into my CUIMS account, but I can’t. Who can I call about this?
+answer: For this, the office of the DSW will provide necessary support.
+40:
+question: Where can I find more help?
+answer: The Student Care Centers are provided in each Academic Block. The student can approach there or send their problems online. They can also visit the Department of Student Welfare.
+41:
+question: How do I get involved in clubs and organizations?
+answer: There are many clubs and committees at both university and department level. The student can become the member according to his/her interest.
+42:
+question: I just arrived and would like to purchase a cell phone, sim card and other daily needs.
+answer: There is a facility of buying the same at discounted rates. The student need not worry about the availability of objects of daily needs.
+43:
+question: Where is the Health Center located?
+answer: The University Health Center is located adjoining the SBI campus branch near the main gate of the university.
+44:
+question: What steps has CU taken to prevent ragging?
+answer: The campus is known for zero tolerance for ragging. An Anti Ragging Committee and Anti Ragging Squad have been established. Apart from this, helpline numbers are displayed throughout the campus for the students. There are CCTV cameras on the whole campus for e-surveillance.
+45:
+question: 
+How safe and secure will I be on campus?
+answer: The university provides a conducive environment for the students. The campus is secured by security guards (both male and female) as well as CCTV cameras.
+46:
+question: What if I have questions not found on this page?
+answer: The students have been provided with helpline numbers for any query regarding hostel, transport, academics and other fields. The student can reach through email or calling to the concerned person. In case of any help or information not mentioned above, the student should contact at the following helpline numbers:
